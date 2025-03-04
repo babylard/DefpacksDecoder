@@ -1,0 +1,18 @@
+{
+  "name": "defpacks",
+  "version": "1.0.0",
+  "description": "Defpacks Project",
+  "main": "dist/main.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "dependencies": {
+    "animaljam.js": "^1.0.32"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0-dev.20240920",
+    "@types/node": "^20.12.7"
+  }
+}
