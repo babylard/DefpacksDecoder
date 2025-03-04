@@ -10,8 +10,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "223",
-    "name": "Jamaaliday Jam"
+    "roomDefId": "223"
   },
   "2": {
     "id": "2",
@@ -24,8 +23,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "224",
-    "name": "Play Wild Party"
+    "roomDefId": "224"
   },
   "3": {
     "id": "3",
@@ -38,8 +36,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "228",
-    "name": "New Year's Party"
+    "roomDefId": "228"
   },
   "4": {
     "id": "4",
@@ -52,8 +49,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "265",
-    "name": "Bunnies Only Party"
+    "roomDefId": "265"
   },
   "5": {
     "id": "5",
@@ -66,8 +62,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "222",
-    "name": "Jamaaliday Jam"
+    "roomDefId": "222"
   },
   "6": {
     "id": "6",
@@ -80,8 +75,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "233",
-    "name": "Trading Party"
+    "roomDefId": "233"
   },
   "7": {
     "id": "7",
@@ -94,8 +88,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "234",
-    "name": "Dinner Party"
+    "roomDefId": "234"
   },
   "8": {
     "id": "8",
@@ -108,8 +101,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "235",
-    "name": "Friendship Party"
+    "roomDefId": "235"
   },
   "9": {
     "id": "9",
@@ -122,8 +114,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "237",
-    "name": "Heatwave Party"
+    "roomDefId": "237"
   },
   "10": {
     "id": "10",
@@ -136,8 +127,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "239",
-    "name": "Leap Year Party"
+    "roomDefId": "239"
   },
   "11": {
     "id": "11",
@@ -150,8 +140,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "245",
-    "name": "Lucky Party"
+    "roomDefId": "245"
   },
   "12": {
     "id": "12",
@@ -164,8 +153,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "247",
-    "name": "Wolves Only Party"
+    "roomDefId": "247"
   },
   "13": {
     "id": "13",
@@ -178,8 +166,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "252",
-    "name": "Horses Only Party"
+    "roomDefId": "252"
   },
   "14": {
     "id": "14",
@@ -192,8 +179,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "253",
-    "name": "April Fools' Party"
+    "roomDefId": "253"
   },
   "15": {
     "id": "15",
@@ -206,8 +192,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "255",
-    "name": "Atlantis Party"
+    "roomDefId": "255"
   },
   "16": {
     "id": "16",
@@ -220,8 +205,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "257",
-    "name": "Spooky Party"
+    "roomDefId": "257"
   },
   "17": {
     "id": "17",
@@ -234,8 +218,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "258",
-    "name": "Cruise Ship Party"
+    "roomDefId": "258"
   },
   "18": {
     "id": "18",
@@ -248,8 +231,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "273",
-    "name": "Carnival"
+    "roomDefId": "273"
   },
   "19": {
     "id": "19",
@@ -262,8 +244,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "277",
-    "name": "Penguins Only Party"
+    "roomDefId": "277"
   },
   "20": {
     "id": "20",
@@ -276,8 +257,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "279",
-    "name": "Freedom Party"
+    "roomDefId": "279"
   },
   "21": {
     "id": "21",
@@ -290,8 +270,7 @@
     "petDefScalableFlags": "4294967295,4294967295,4294875647,98301",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "284",
-    "name": "Pets Only Party"
+    "roomDefId": "284"
   },
   "22": {
     "id": "22",
@@ -304,8 +283,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "295",
-    "name": "Monkeys Only Party"
+    "roomDefId": "295"
   },
   "23": {
     "id": "23",
@@ -318,8 +296,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "298",
-    "name": "AJ Birthday Party"
+    "roomDefId": "298"
   },
   "24": {
     "id": "24",
@@ -332,8 +309,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "309",
-    "name": "Haunted Forest Party"
+    "roomDefId": "309"
   },
   "25": {
     "id": "25",
@@ -346,8 +322,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "322",
-    "name": "New Year's Shop"
+    "roomDefId": "322"
   },
   "26": {
     "id": "26",
@@ -360,8 +335,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "326",
-    "name": "New Year's Party"
+    "roomDefId": "326"
   },
   "27": {
     "id": "27",
@@ -374,8 +348,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "335",
-    "name": "Paradise Party"
+    "roomDefId": "335"
   },
   "28": {
     "id": "28",
@@ -388,8 +361,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "346",
-    "name": "Jam Session"
+    "roomDefId": "346"
   },
   "29": {
     "id": "29",
@@ -402,8 +374,7 @@
     "petDefScalableFlags": "4294967295,4294967295,4294875647,98301",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "409",
-    "name": "Play-As-Your-Pet Party"
+    "roomDefId": "409"
   },
   "30": {
     "id": "30",
@@ -416,8 +387,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "462",
-    "name": "Beta Party"
+    "roomDefId": "462"
   },
   "31": {
     "id": "31",
@@ -430,8 +400,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "487",
-    "name": "Bounce House Party"
+    "roomDefId": "487"
   },
   "32": {
     "id": "32",
@@ -444,8 +413,7 @@
     "petDefScalableFlags": "0",
     "isGame": "1",
     "isCustom": "0",
-    "roomDefId": "485",
-    "name": "Best Guess Game"
+    "roomDefId": "485"
   },
   "33": {
     "id": "33",
@@ -458,8 +426,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "498",
-    "name": "Cloud Party"
+    "roomDefId": "498"
   },
   "34": {
     "id": "34",
@@ -472,8 +439,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "508",
-    "name": "Schoolhouse Party"
+    "roomDefId": "508"
   },
   "35": {
     "id": "35",
@@ -486,8 +452,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "513",
-    "name": "Spooky Party"
+    "roomDefId": "513"
   },
   "36": {
     "id": "36",
@@ -500,8 +465,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "555",
-    "name": "Spring Cottage"
+    "roomDefId": "555"
   },
   "37": {
     "id": "37",
@@ -592,8 +556,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "540",
-    "name": "Year of the Snake Party"
+    "roomDefId": "540"
   },
   "44": {
     "id": "44",
@@ -645,8 +608,7 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "598",
-    "name": "Masterpiece Gallery Party"
+    "roomDefId": "598"
   },
   "48": {
     "id": "48",
@@ -659,7 +621,6 @@
     "petDefScalableFlags": "0",
     "isGame": "0",
     "isCustom": "0",
-    "roomDefId": "656",
-    "name": "Call of the Alphas"
+    "roomDefId": "656"
   }
 }

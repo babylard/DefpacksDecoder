@@ -37,7 +37,7 @@ import { AnimalJamClient } from 'animaljam.js';
 
   for (const number of numbers) {
     await client.defpack.decode(number.toString(), {
-      type: 'titleStrId',
+      type: 'titleStrRef',
       saveFile: true, 
       saveFileDefpackPath: '1711-defPacks',
     });

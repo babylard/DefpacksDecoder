@@ -12,8 +12,7 @@
     "toyListId": "526",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Kitty"
+    "availabilityEndTime": null
   },
   "2": {
     "id": "2",
@@ -28,8 +27,7 @@
     "toyListId": "516",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Frog"
+    "availabilityEndTime": null
   },
   "3": {
     "id": "3",
@@ -44,8 +42,7 @@
     "toyListId": "510",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Ducky"
+    "availabilityEndTime": null
   },
   "4": {
     "id": "4",
@@ -60,8 +57,7 @@
     "toyListId": "543",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Puppy"
+    "availabilityEndTime": null
   },
   "5": {
     "id": "5",
@@ -76,8 +72,7 @@
     "toyListId": "508",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Butterfly"
+    "availabilityEndTime": null
   },
   "6": {
     "id": "6",
@@ -92,8 +87,7 @@
     "toyListId": "521",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Hamster"
+    "availabilityEndTime": null
   },
   "7": {
     "id": "7",
@@ -108,8 +102,7 @@
     "toyListId": "505",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Bat"
+    "availabilityEndTime": null
   },
   "8": {
     "id": "8",
@@ -124,8 +117,7 @@
     "toyListId": "547",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Seahorse"
+    "availabilityEndTime": null
   },
   "9": {
     "id": "9",
@@ -140,8 +132,7 @@
     "toyListId": "502",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Anglerfish"
+    "availabilityEndTime": null
   },
   "10": {
     "id": "10",
@@ -156,8 +147,7 @@
     "toyListId": "545",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Reindeer"
+    "availabilityEndTime": null
   },
   "11": {
     "id": "11",
@@ -172,8 +162,7 @@
     "toyListId": "549",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Snake"
+    "availabilityEndTime": null
   },
   "12": {
     "id": "12",
@@ -188,8 +177,7 @@
     "toyListId": "524",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Jellyfish"
+    "availabilityEndTime": null
   },
   "13": {
     "id": "13",
@@ -204,8 +192,7 @@
     "toyListId": "507",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Bunny"
+    "availabilityEndTime": null
   },
   "14": {
     "id": "14",
@@ -220,8 +207,7 @@
     "toyListId": "523",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Hummingbird"
+    "availabilityEndTime": null
   },
   "15": {
     "id": "15",
@@ -236,8 +222,7 @@
     "toyListId": "556",
     "isEgg": "0",
     "availabilityStartTime": "1743055200",
-    "availabilityEndTime": null,
-    "name": "Pet Turtle"
+    "availabilityEndTime": null
   },
   "16": {
     "id": "16",
@@ -252,8 +237,7 @@
     "toyListId": "533",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Monkey"
+    "availabilityEndTime": null
   },
   "17": {
     "id": "17",
@@ -268,8 +252,7 @@
     "toyListId": "553",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Tarantula"
+    "availabilityEndTime": null
   },
   "18": {
     "id": "18",
@@ -284,8 +267,7 @@
     "toyListId": "515",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Fox"
+    "availabilityEndTime": null
   },
   "19": {
     "id": "19",
@@ -300,8 +282,7 @@
     "toyListId": "535",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Owl"
+    "availabilityEndTime": null
   },
   "20": {
     "id": "20",
@@ -316,8 +297,7 @@
     "toyListId": "554",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Tiger"
+    "availabilityEndTime": null
   },
   "21": {
     "id": "21",
@@ -332,8 +312,7 @@
     "toyListId": "503",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Arctic Wolf"
+    "availabilityEndTime": null
   },
   "22": {
     "id": "22",
@@ -348,8 +327,7 @@
     "toyListId": "544",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Raccoon"
+    "availabilityEndTime": null
   },
   "23": {
     "id": "23",
@@ -364,8 +342,7 @@
     "toyListId": "525",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Joey"
+    "availabilityEndTime": null
   },
   "24": {
     "id": "24",
@@ -380,8 +357,7 @@
     "toyListId": "511",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Eagle"
+    "availabilityEndTime": null
   },
   "25": {
     "id": "25",
@@ -396,8 +372,7 @@
     "toyListId": "509",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Cheetah"
+    "availabilityEndTime": null
   },
   "26": {
     "id": "26",
@@ -412,8 +387,7 @@
     "toyListId": "546",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Rhino"
+    "availabilityEndTime": null
   },
   "27": {
     "id": "27",
@@ -428,8 +402,7 @@
     "toyListId": "518",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Giraffe"
+    "availabilityEndTime": null
   },
   "28": {
     "id": "28",
@@ -444,8 +417,7 @@
     "toyListId": "552",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Sugar Glider"
+    "availabilityEndTime": null
   },
   "29": {
     "id": "29",
@@ -460,8 +432,7 @@
     "toyListId": "529",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Lion"
+    "availabilityEndTime": null
   },
   "30": {
     "id": "30",
@@ -476,8 +447,7 @@
     "toyListId": "536",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Panda"
+    "availabilityEndTime": null
   },
   "31": {
     "id": "31",
@@ -492,8 +462,7 @@
     "toyListId": "541",
     "isEgg": "0",
     "availabilityStartTime": "1481698800",
-    "availabilityEndTime": "1483167600",
-    "name": "Pet Polar Bear"
+    "availabilityEndTime": "1483167600"
   },
   "32": {
     "id": "32",
@@ -508,8 +477,7 @@
     "toyListId": "517",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Gecko"
+    "availabilityEndTime": null
   },
   "34": {
     "id": "34",
@@ -524,8 +492,7 @@
     "toyListId": "542",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Pony"
+    "availabilityEndTime": null
   },
   "35": {
     "id": "35",
@@ -540,8 +507,7 @@
     "toyListId": "540",
     "isEgg": "0",
     "availabilityStartTime": "1470808800",
-    "availabilityEndTime": "1473919200",
-    "name": "Pet Piglet"
+    "availabilityEndTime": "1473919200"
   },
   "36": {
     "id": "36",
@@ -556,8 +522,7 @@
     "toyListId": "513",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Ferret"
+    "availabilityEndTime": null
   },
   "37": {
     "id": "37",
@@ -572,8 +537,7 @@
     "toyListId": "512",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Elephant"
+    "availabilityEndTime": null
   },
   "38": {
     "id": "38",
@@ -588,8 +552,7 @@
     "toyListId": "504",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Armadillo"
+    "availabilityEndTime": null
   },
   "39": {
     "id": "39",
@@ -604,8 +567,7 @@
     "toyListId": "537",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Peacock"
+    "availabilityEndTime": null
   },
   "40": {
     "id": "40",
@@ -620,8 +582,7 @@
     "toyListId": "506",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Honeybee"
+    "availabilityEndTime": null
   },
   "41": {
     "id": "41",
@@ -636,8 +597,7 @@
     "toyListId": "588",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Rooster"
+    "availabilityEndTime": null
   },
   "42": {
     "id": "42",
@@ -652,8 +612,7 @@
     "toyListId": "548",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Skunk"
+    "availabilityEndTime": null
   },
   "43": {
     "id": "43",
@@ -668,8 +627,7 @@
     "toyListId": "555",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Turkey"
+    "availabilityEndTime": null
   },
   "44": {
     "id": "44",
@@ -684,8 +642,7 @@
     "toyListId": "538",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Penguin"
+    "availabilityEndTime": null
   },
   "45": {
     "id": "45",
@@ -700,8 +657,7 @@
     "toyListId": "550",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Snow Leopard"
+    "availabilityEndTime": null
   },
   "46": {
     "id": "46",
@@ -716,8 +672,7 @@
     "toyListId": "531",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Mantis"
+    "availabilityEndTime": null
   },
   "47": {
     "id": "47",
@@ -732,8 +687,7 @@
     "toyListId": "527",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Ladybug"
+    "availabilityEndTime": null
   },
   "48": {
     "id": "48",
@@ -748,8 +702,7 @@
     "toyListId": "520",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Grasshopper"
+    "availabilityEndTime": null
   },
   "49": {
     "id": "49",
@@ -764,8 +717,7 @@
     "toyListId": "551",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Squirrel"
+    "availabilityEndTime": null
   },
   "50": {
     "id": "50",
@@ -780,8 +732,7 @@
     "toyListId": "534",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Mouse"
+    "availabilityEndTime": null
   },
   "51": {
     "id": "51",
@@ -796,8 +747,7 @@
     "toyListId": "514",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Firefly"
+    "availabilityEndTime": null
   },
   "52": {
     "id": "52",
@@ -812,8 +762,7 @@
     "toyListId": "528",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Lemur"
+    "availabilityEndTime": null
   },
   "53": {
     "id": "53",
@@ -828,8 +777,7 @@
     "toyListId": "522",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Hippo"
+    "availabilityEndTime": null
   },
   "54": {
     "id": "54",
@@ -844,8 +792,7 @@
     "toyListId": "519",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Goat"
+    "availabilityEndTime": null
   },
   "55": {
     "id": "55",
@@ -860,8 +807,7 @@
     "toyListId": "532",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Meerkat"
+    "availabilityEndTime": null
   },
   "56": {
     "id": "56",
@@ -876,8 +822,7 @@
     "toyListId": "570",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Golden Bunny"
+    "availabilityEndTime": null
   },
   "57": {
     "id": "57",
@@ -892,8 +837,7 @@
     "toyListId": "539",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Phantom"
+    "availabilityEndTime": null
   },
   "58": {
     "id": "58",
@@ -908,8 +852,7 @@
     "toyListId": "580",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Seal"
+    "availabilityEndTime": null
   },
   "59": {
     "id": "59",
@@ -924,8 +867,7 @@
     "toyListId": "579",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Otter"
+    "availabilityEndTime": null
   },
   "60": {
     "id": "60",
@@ -940,8 +882,7 @@
     "toyListId": "539",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Rare Pet Phantom"
+    "availabilityEndTime": null
   },
   "61": {
     "id": "61",
@@ -956,8 +897,7 @@
     "toyListId": "581",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Groundhog"
+    "availabilityEndTime": null
   },
   "62": {
     "id": "62",
@@ -972,8 +912,7 @@
     "toyListId": "530",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Llama"
+    "availabilityEndTime": null
   },
   "63": {
     "id": "63",
@@ -988,8 +927,7 @@
     "toyListId": "587",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Arctic Fox"
+    "availabilityEndTime": null
   },
   "64": {
     "id": "64",
@@ -1004,8 +942,7 @@
     "toyListId": "596",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Hyena"
+    "availabilityEndTime": null
   },
   "65": {
     "id": "65",
@@ -1020,8 +957,7 @@
     "toyListId": "597",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Sloth"
+    "availabilityEndTime": null
   },
   "66": {
     "id": "66",
@@ -1036,8 +972,7 @@
     "toyListId": "641",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Dove"
+    "availabilityEndTime": null
   },
   "67": {
     "id": "67",
@@ -1052,8 +987,7 @@
     "toyListId": "616",
     "isEgg": "1",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Baby Chick"
+    "availabilityEndTime": null
   },
   "68": {
     "id": "68",
@@ -1068,8 +1002,7 @@
     "toyListId": "621",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Golden Armadillo"
+    "availabilityEndTime": null
   },
   "69": {
     "id": "69",
@@ -1084,8 +1017,7 @@
     "toyListId": "620",
     "isEgg": "1",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Falcon"
+    "availabilityEndTime": null
   },
   "70": {
     "id": "70",
@@ -1100,8 +1032,7 @@
     "toyListId": "619",
     "isEgg": "1",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Crocodile"
+    "availabilityEndTime": null
   },
   "71": {
     "id": "71",
@@ -1116,8 +1047,7 @@
     "toyListId": "630",
     "isEgg": "1",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Platypus"
+    "availabilityEndTime": null
   },
   "72": {
     "id": "72",
@@ -1132,8 +1062,7 @@
     "toyListId": "634",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Phantom"
+    "availabilityEndTime": null
   },
   "73": {
     "id": "73",
@@ -1148,8 +1077,7 @@
     "toyListId": "632",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Golden Pony"
+    "availabilityEndTime": null
   },
   "74": {
     "id": "74",
@@ -1164,8 +1092,7 @@
     "toyListId": "598",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Shark"
+    "availabilityEndTime": null
   },
   "75": {
     "id": "75",
@@ -1180,8 +1107,7 @@
     "toyListId": "599",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Dolphin"
+    "availabilityEndTime": null
   },
   "76": {
     "id": "76",
@@ -1196,8 +1122,7 @@
     "toyListId": "645",
     "isEgg": "1",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Echidna"
+    "availabilityEndTime": null
   },
   "77": {
     "id": "77",
@@ -1212,8 +1137,7 @@
     "toyListId": "600",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Koala"
+    "availabilityEndTime": null
   },
   "80": {
     "id": "80",
@@ -1228,8 +1152,7 @@
     "toyListId": "601",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Lynx"
+    "availabilityEndTime": null
   },
   "81": {
     "id": "81",
@@ -1244,8 +1167,7 @@
     "toyListId": "598",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Octopus"
+    "availabilityEndTime": null
   },
   "82": {
     "id": "82",
@@ -1260,8 +1182,7 @@
     "toyListId": "515",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Fennec Fox"
+    "availabilityEndTime": null
   },
   "83": {
     "id": "83",
@@ -1276,8 +1197,7 @@
     "toyListId": "504",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Hedgehog"
+    "availabilityEndTime": null
   },
   "84": {
     "id": "84",
@@ -1292,8 +1212,7 @@
     "toyListId": "664",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Scorpion"
+    "availabilityEndTime": null
   },
   "85": {
     "id": "85",
@@ -1308,8 +1227,7 @@
     "toyListId": "672",
     "isEgg": "1",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Crow"
+    "availabilityEndTime": null
   },
   "86": {
     "id": "86",
@@ -1324,8 +1242,7 @@
     "toyListId": "683",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Moose"
+    "availabilityEndTime": null
   },
   "87": {
     "id": "87",
@@ -1340,8 +1257,7 @@
     "toyListId": "543",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Poodle"
+    "availabilityEndTime": null
   },
   "88": {
     "id": "88",
@@ -1356,8 +1272,7 @@
     "toyListId": "507",
     "isEgg": "0",
     "availabilityStartTime": "1738821600",
-    "availabilityEndTime": "1740808800",
-    "name": "Pet Love Bunny"
+    "availabilityEndTime": "1740808800"
   },
   "89": {
     "id": "89",
@@ -1372,8 +1287,7 @@
     "toyListId": "691",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Sabertooth"
+    "availabilityEndTime": null
   },
   "90": {
     "id": "90",
@@ -1388,8 +1302,7 @@
     "toyListId": "692",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Direwolf"
+    "availabilityEndTime": null
   },
   "91": {
     "id": "91",
@@ -1404,8 +1317,7 @@
     "toyListId": "706",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Dodo"
+    "availabilityEndTime": null
   },
   "92": {
     "id": "92",
@@ -1420,8 +1332,7 @@
     "toyListId": "708",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Fantasy Peacock"
+    "availabilityEndTime": null
   },
   "93": {
     "id": "93",
@@ -1436,8 +1347,7 @@
     "toyListId": "727",
     "isEgg": "1",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Millipede"
+    "availabilityEndTime": null
   },
   "94": {
     "id": "94",
@@ -1452,8 +1362,7 @@
     "toyListId": "731",
     "isEgg": "1",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Poodle Moth"
+    "availabilityEndTime": null
   },
   "95": {
     "id": "95",
@@ -1468,8 +1377,7 @@
     "toyListId": "729",
     "isEgg": "1",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Vulture"
+    "availabilityEndTime": null
   },
   "96": {
     "id": "96",
@@ -1484,8 +1392,7 @@
     "toyListId": "733",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Coyote"
+    "availabilityEndTime": null
   },
   "97": {
     "id": "97",
@@ -1500,8 +1407,7 @@
     "toyListId": "735",
     "isEgg": "0",
     "availabilityStartTime": "1543471200",
-    "availabilityEndTime": "1546581600",
-    "name": "Meagyn's Pet Bear"
+    "availabilityEndTime": "1546581600"
   },
   "99": {
     "id": "99",
@@ -1516,8 +1422,7 @@
     "toyListId": "751",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Lovebug"
+    "availabilityEndTime": null
   },
   "100": {
     "id": "100",
@@ -1532,8 +1437,7 @@
     "toyListId": "753",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Flying Pig"
+    "availabilityEndTime": null
   },
   "101": {
     "id": "101",
@@ -1548,8 +1452,7 @@
     "toyListId": "755",
     "isEgg": "1",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Sparrow"
+    "availabilityEndTime": null
   },
   "102": {
     "id": "102",
@@ -1564,8 +1467,7 @@
     "toyListId": "515",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Fennec Fox"
+    "availabilityEndTime": null
   },
   "103": {
     "id": "103",
@@ -1580,8 +1482,7 @@
     "toyListId": "758",
     "isEgg": "1",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Cardinal"
+    "availabilityEndTime": null
   },
   "104": {
     "id": "104",
@@ -1596,8 +1497,7 @@
     "toyListId": "760",
     "isEgg": "1",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Frilled Lizard"
+    "availabilityEndTime": null
   },
   "105": {
     "id": "105",
@@ -1612,8 +1512,7 @@
     "toyListId": "763",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Dragonfly"
+    "availabilityEndTime": null
   },
   "106": {
     "id": "106",
@@ -1628,8 +1527,7 @@
     "toyListId": "769",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Magenta Seal"
+    "availabilityEndTime": null
   },
   "107": {
     "id": "107",
@@ -1644,8 +1542,7 @@
     "toyListId": "765",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Pangolin"
+    "availabilityEndTime": null
   },
   "108": {
     "id": "108",
@@ -1660,8 +1557,7 @@
     "toyListId": "772",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Camel"
+    "availabilityEndTime": null
   },
   "109": {
     "id": "109",
@@ -1676,8 +1572,7 @@
     "toyListId": "767",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Snail"
+    "availabilityEndTime": null
   },
   "110": {
     "id": "110",
@@ -1692,8 +1587,7 @@
     "toyListId": "774",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Galactic Firefly"
+    "availabilityEndTime": null
   },
   "111": {
     "id": "111",
@@ -1708,8 +1602,7 @@
     "toyListId": "777",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Caterpillar"
+    "availabilityEndTime": null
   },
   "113": {
     "id": "113",
@@ -1724,7 +1617,6 @@
     "toyListId": "809",
     "isEgg": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null,
-    "name": "Pet Golden Reindeer"
+    "availabilityEndTime": null
   }
 }

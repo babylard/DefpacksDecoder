@@ -10,7 +10,8 @@
     "membersOnly": "0",
     "roomDefId": "116",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Small House"
   },
   "2": {
     "id": "2",
@@ -23,7 +24,8 @@
     "membersOnly": "1",
     "roomDefId": "132",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Tree House"
   },
   "3": {
     "id": "3",
@@ -36,7 +38,8 @@
     "membersOnly": "1",
     "roomDefId": "151",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Princess Castle"
   },
   "4": {
     "id": "4",
@@ -49,7 +52,8 @@
     "membersOnly": "1",
     "roomDefId": "129",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Castle"
   },
   "5": {
     "id": "5",
@@ -62,7 +66,8 @@
     "membersOnly": "1",
     "roomDefId": "163",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Volcano"
   },
   "6": {
     "id": "6",
@@ -75,7 +80,8 @@
     "membersOnly": "1",
     "roomDefId": "180",
     "availabilityStartTime": "1698818400",
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Restaurant"
   },
   "7": {
     "id": "7",
@@ -88,7 +94,8 @@
     "membersOnly": "1",
     "roomDefId": "184",
     "availabilityStartTime": "1717048800",
-    "availabilityEndTime": "1726207200"
+    "availabilityEndTime": "1726207200",
+    "name": "Water Park"
   },
   "8": {
     "id": "8",
@@ -101,7 +108,8 @@
     "membersOnly": "0",
     "roomDefId": "196",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Sunken Ship"
   },
   "9": {
     "id": "9",
@@ -114,7 +122,8 @@
     "membersOnly": "0",
     "roomDefId": "195",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Princess Castle"
   },
   "10": {
     "id": "10",
@@ -127,7 +136,8 @@
     "membersOnly": "0",
     "roomDefId": "206",
     "availabilityStartTime": "1727848800",
-    "availabilityEndTime": "1731304800"
+    "availabilityEndTime": "1731304800",
+    "name": "Haunted Mansion"
   },
   "11": {
     "id": "11",
@@ -140,7 +150,8 @@
     "membersOnly": "0",
     "roomDefId": "218",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Gingerbread House"
   },
   "12": {
     "id": "12",
@@ -153,7 +164,8 @@
     "membersOnly": "1",
     "roomDefId": "230",
     "availabilityStartTime": "1713420000",
-    "availabilityEndTime": "1721973600"
+    "availabilityEndTime": "1721973600",
+    "name": "Ol' Barn"
   },
   "13": {
     "id": "13",
@@ -166,7 +178,8 @@
     "membersOnly": "1",
     "roomDefId": "238",
     "availabilityStartTime": "1737007200",
-    "availabilityEndTime": "1744956000"
+    "availabilityEndTime": "1744956000",
+    "name": "Snow Fort"
   },
   "14": {
     "id": "14",
@@ -179,7 +192,8 @@
     "membersOnly": "1",
     "roomDefId": "246",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Lost Ruins"
   },
   "15": {
     "id": "15",
@@ -192,7 +206,8 @@
     "membersOnly": "1",
     "roomDefId": "280",
     "availabilityStartTime": "1707976800",
-    "availabilityEndTime": "1714716000"
+    "availabilityEndTime": "1714716000",
+    "name": "Fantasy Castle"
   },
   "16": {
     "id": "16",
@@ -205,7 +220,8 @@
     "membersOnly": "1",
     "roomDefId": "286",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Enchanted Hollow"
   },
   "17": {
     "id": "17",
@@ -218,7 +234,8 @@
     "membersOnly": "1",
     "roomDefId": "301",
     "availabilityStartTime": "1724911200",
-    "availabilityEndTime": "1732255200"
+    "availabilityEndTime": "1732255200",
+    "name": "Mushroom Hut"
   },
   "18": {
     "id": "18",
@@ -231,7 +248,8 @@
     "membersOnly": "1",
     "roomDefId": "425",
     "availabilityStartTime": "1465970400",
-    "availabilityEndTime": "1469080800"
+    "availabilityEndTime": "1469080800",
+    "name": "Cosmo's Den"
   },
   "19": {
     "id": "19",
@@ -244,7 +262,8 @@
     "membersOnly": "1",
     "roomDefId": "296",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Arcade"
   },
   "20": {
     "id": "20",
@@ -257,7 +276,8 @@
     "membersOnly": "1",
     "roomDefId": "436",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Sol Arcade Den"
   },
   "21": {
     "id": "21",
@@ -270,7 +290,8 @@
     "membersOnly": "1",
     "roomDefId": "464",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Crystal Palace"
   },
   "22": {
     "id": "22",
@@ -283,7 +304,8 @@
     "membersOnly": "1",
     "roomDefId": "482",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Sky Kingdom"
   },
   "23": {
     "id": "23",
@@ -296,7 +318,8 @@
     "membersOnly": "1",
     "roomDefId": "488",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Greely's Hideout"
   },
   "24": {
     "id": "24",
@@ -309,7 +332,8 @@
     "membersOnly": "1",
     "roomDefId": "491",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Beach House"
   },
   "25": {
     "id": "25",
@@ -322,7 +346,8 @@
     "membersOnly": "1",
     "roomDefId": "505",
     "availabilityStartTime": "1692252000",
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Bounce House"
   },
   "26": {
     "id": "26",
@@ -335,7 +360,8 @@
     "membersOnly": "1",
     "roomDefId": "512",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Epic Haunted Manor"
   },
   "27": {
     "id": "27",
@@ -348,7 +374,8 @@
     "membersOnly": "1",
     "roomDefId": "526",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Jamaaliday House"
   },
   "28": {
     "id": "28",
@@ -361,7 +388,8 @@
     "membersOnly": "1",
     "roomDefId": "529",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Winter Palace"
   },
   "29": {
     "id": "29",
@@ -374,7 +402,8 @@
     "membersOnly": "1",
     "roomDefId": "542",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Friendship Cottage"
   },
   "30": {
     "id": "30",
@@ -387,7 +416,8 @@
     "membersOnly": "1",
     "roomDefId": "547",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Lucky Castle"
   },
   "31": {
     "id": "31",
@@ -400,7 +430,8 @@
     "membersOnly": "1",
     "roomDefId": "553",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Spring Cottage"
   },
   "32": {
     "id": "32",
@@ -413,7 +444,8 @@
     "membersOnly": "1",
     "roomDefId": "561",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Peck's Den"
   },
   "33": {
     "id": "33",
@@ -426,7 +458,8 @@
     "membersOnly": "1",
     "roomDefId": "570",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Pixel Place"
   },
   "34": {
     "id": "34",
@@ -439,7 +472,8 @@
     "membersOnly": "1",
     "roomDefId": "594",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Sir Gilbert's Palace"
   },
   "35": {
     "id": "35",
@@ -452,7 +486,8 @@
     "membersOnly": "1",
     "roomDefId": "613",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Art Gallery"
   },
   "36": {
     "id": "36",
@@ -465,7 +500,8 @@
     "membersOnly": "1",
     "roomDefId": "639",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Liza's Garden"
   },
   "37": {
     "id": "37",
@@ -478,7 +514,8 @@
     "membersOnly": "1",
     "roomDefId": "649",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Sandcastle"
   },
   "38": {
     "id": "38",
@@ -491,7 +528,8 @@
     "membersOnly": "1",
     "roomDefId": "661",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Graham's Observatory"
   },
   "39": {
     "id": "39",
@@ -504,7 +542,8 @@
     "membersOnly": "1",
     "roomDefId": "679",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Cosmo's Tree House"
   },
   "40": {
     "id": "40",
@@ -517,7 +556,8 @@
     "membersOnly": "0",
     "roomDefId": "695",
     "availabilityStartTime": "1725429600",
-    "availabilityEndTime": "1734674400"
+    "availabilityEndTime": "1734674400",
+    "name": "Autumn Small House"
   },
   "41": {
     "id": "41",
@@ -530,7 +570,8 @@
     "membersOnly": "1",
     "roomDefId": "696",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Greely's Haunted Hideout"
   },
   "42": {
     "id": "42",
@@ -543,7 +584,8 @@
     "membersOnly": "1",
     "roomDefId": "702",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Regal Winter Palace"
   },
   "43": {
     "id": "43",
@@ -556,7 +598,8 @@
     "membersOnly": "1",
     "roomDefId": "708",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Igloo Estate"
   },
   "44": {
     "id": "44",
@@ -569,7 +612,8 @@
     "membersOnly": "0",
     "roomDefId": "709",
     "availabilityStartTime": "1734588000",
-    "availabilityEndTime": "1742536800"
+    "availabilityEndTime": "1742536800",
+    "name": "Winter Small House"
   },
   "45": {
     "id": "45",
@@ -582,7 +626,8 @@
     "membersOnly": "1",
     "roomDefId": "713",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Friendship Fortress"
   },
   "46": {
     "id": "46",
@@ -595,7 +640,8 @@
     "membersOnly": "0",
     "roomDefId": "719",
     "availabilityStartTime": "1742450400",
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Spring Small House"
   },
   "47": {
     "id": "47",
@@ -608,7 +654,8 @@
     "membersOnly": "1",
     "roomDefId": "737",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Jolly Gingerbread Lodge"
   },
   "48": {
     "id": "48",
@@ -621,7 +668,8 @@
     "membersOnly": "1",
     "roomDefId": "738",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Warm Sands Sanctuary"
   },
   "49": {
     "id": "49",
@@ -634,7 +682,8 @@
     "membersOnly": "1",
     "roomDefId": "739",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Winter Castle"
   },
   "50": {
     "id": "50",
@@ -647,7 +696,8 @@
     "membersOnly": "1",
     "roomDefId": "740",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Garden Treehouse"
   },
   "51": {
     "id": "51",
@@ -660,7 +710,8 @@
     "membersOnly": "1",
     "roomDefId": "741",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Schoolhouse"
   },
   "52": {
     "id": "52",
@@ -673,7 +724,8 @@
     "membersOnly": "1",
     "roomDefId": "152",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Spooky Castle"
   },
   "53": {
     "id": "53",
@@ -686,7 +738,8 @@
     "membersOnly": "1",
     "roomDefId": "742",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Icy Snow Fort"
   },
   "54": {
     "id": "54",
@@ -699,6 +752,7 @@
     "membersOnly": "0",
     "roomDefId": "743",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Lucky Small House"
   }
 }

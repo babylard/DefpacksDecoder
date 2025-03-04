@@ -28,8 +28,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Caged Phantom"
+    "attackable": "0"
   },
   "2": {
     "id": "2",
@@ -91,8 +90,7 @@
     "soundMediaRefId": "0",
     "level": "4",
     "damageTouch": "-1",
-    "attackable": "0",
-    "name": "Phantoms!"
+    "attackable": "0"
   },
   "4": {
     "id": "4",
@@ -123,8 +121,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Crocodile"
+    "attackable": "0"
   },
   "5": {
     "id": "5",
@@ -155,8 +152,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Aviator Hat"
+    "attackable": "0"
   },
   "6": {
     "id": "6",
@@ -187,8 +183,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Monkey"
+    "attackable": "0"
   },
   "7": {
     "id": "7",
@@ -219,8 +214,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Arctic Wolf"
+    "attackable": "0"
   },
   "8": {
     "id": "8",
@@ -251,8 +245,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Arctic Wolf"
+    "attackable": "0"
   },
   "9": {
     "id": "9",
@@ -283,8 +276,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Crocodile"
+    "attackable": "0"
   },
   "10": {
     "id": "10",
@@ -315,8 +307,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Crocodile"
+    "attackable": "0"
   },
   "11": {
     "id": "11",
@@ -347,8 +338,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Lion"
+    "attackable": "0"
   },
   "12": {
     "id": "12",
@@ -379,8 +369,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bunny"
+    "attackable": "0"
   },
   "13": {
     "id": "13",
@@ -411,8 +400,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Penguin"
+    "attackable": "0"
   },
   "14": {
     "id": "14",
@@ -443,8 +431,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Seal"
+    "attackable": "0"
   },
   "15": {
     "id": "15",
@@ -475,8 +462,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Elephant"
+    "attackable": "0"
   },
   "16": {
     "id": "16",
@@ -507,8 +493,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Rhino"
+    "attackable": "0"
   },
   "17": {
     "id": "17",
@@ -539,8 +524,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Monkey"
+    "attackable": "0"
   },
   "18": {
     "id": "18",
@@ -571,8 +555,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Horse"
+    "attackable": "0"
   },
   "19": {
     "id": "19",
@@ -603,8 +586,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger"
+    "attackable": "0"
   },
   "20": {
     "id": "20",
@@ -635,8 +617,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Peck Statue"
+    "attackable": "0"
   },
   "21": {
     "id": "21",
@@ -667,8 +648,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Liza Statue"
+    "attackable": "0"
   },
   "22": {
     "id": "22",
@@ -699,8 +679,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Greely Statue"
+    "attackable": "0"
   },
   "23": {
     "id": "23",
@@ -731,8 +710,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Graham Statue"
+    "attackable": "0"
   },
   "24": {
     "id": "24",
@@ -763,8 +741,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Sir Gilbert Statue"
+    "attackable": "0"
   },
   "25": {
     "id": "25",
@@ -795,8 +772,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Cosmo Statue"
+    "attackable": "0"
   },
   "26": {
     "id": "26",
@@ -827,8 +803,7 @@
     "soundMediaRefId": "0",
     "level": "5",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Phantoms!"
+    "attackable": "0"
   },
   "27": {
     "id": "27",
@@ -859,8 +834,7 @@
     "soundMediaRefId": "0",
     "level": "6",
     "damageTouch": "2",
-    "attackable": "0",
-    "name": "Phantoms!"
+    "attackable": "0"
   },
   "28": {
     "id": "28",
@@ -891,8 +865,7 @@
     "soundMediaRefId": "0",
     "level": "5",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Phantoms!"
+    "attackable": "0"
   },
   "29": {
     "id": "29",
@@ -923,8 +896,7 @@
     "soundMediaRefId": "0",
     "level": "5",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Phantoms!"
+    "attackable": "0"
   },
   "30": {
     "id": "30",
@@ -955,8 +927,7 @@
     "soundMediaRefId": "0",
     "level": "1",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Crocodile"
+    "attackable": "0"
   },
   "31": {
     "id": "31",
@@ -1235,8 +1206,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "40": {
     "id": "40",
@@ -1267,8 +1237,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Fountain"
+    "attackable": "0"
   },
   "41": {
     "id": "41",
@@ -1361,8 +1330,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "2",
-    "name": "Giant Phantom"
+    "attackable": "2"
   },
   "44": {
     "id": "44",
@@ -2199,8 +2167,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Caged Phantom"
+    "attackable": "0"
   },
   "71": {
     "id": "71",
@@ -2231,8 +2198,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Caged Phantom"
+    "attackable": "0"
   },
   "72": {
     "id": "72",
@@ -2263,8 +2229,7 @@
     "soundMediaRefId": "0",
     "level": "2",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Caged Phantom"
+    "attackable": "0"
   },
   "73": {
     "id": "73",
@@ -2295,8 +2260,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Caged Phantom"
+    "attackable": "0"
   },
   "74": {
     "id": "74",
@@ -2327,8 +2291,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Phantom Toy"
+    "attackable": "0"
   },
   "75": {
     "id": "75",
@@ -2359,8 +2322,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Giant Phantom"
+    "attackable": "0"
   },
   "76": {
     "id": "76",
@@ -2391,8 +2353,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Caged Phantom"
+    "attackable": "0"
   },
   "77": {
     "id": "77",
@@ -2609,8 +2570,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Liza Statue"
+    "attackable": "0"
   },
   "84": {
     "id": "84",
@@ -2672,8 +2632,7 @@
     "soundMediaRefId": "0",
     "level": "2",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Caged Phantom"
+    "attackable": "0"
   },
   "86": {
     "id": "86",
@@ -2766,8 +2725,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Buster"
+    "attackable": "0"
   },
   "89": {
     "id": "89",
@@ -2798,8 +2756,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Pumpkin"
+    "attackable": "0"
   },
   "90": {
     "id": "90",
@@ -2830,8 +2787,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Peter"
+    "attackable": "0"
   },
   "91": {
     "id": "91",
@@ -2862,8 +2818,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Cookie"
+    "attackable": "0"
   },
   "92": {
     "id": "92",
@@ -2894,8 +2849,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "George"
+    "attackable": "0"
   },
   "93": {
     "id": "93",
@@ -2926,8 +2880,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Clover"
+    "attackable": "0"
   },
   "94": {
     "id": "94",
@@ -2958,8 +2911,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Jack"
+    "attackable": "0"
   },
   "95": {
     "id": "95",
@@ -2990,8 +2942,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Snowball"
+    "attackable": "0"
   },
   "96": {
     "id": "96",
@@ -3022,8 +2973,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Oliver"
+    "attackable": "0"
   },
   "97": {
     "id": "97",
@@ -3054,8 +3004,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Daisy"
+    "attackable": "0"
   },
   "98": {
     "id": "98",
@@ -3086,8 +3035,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Harvey"
+    "attackable": "0"
   },
   "99": {
     "id": "99",
@@ -3180,8 +3128,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Binky"
+    "attackable": "0"
   },
   "102": {
     "id": "102",
@@ -3212,8 +3159,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Gary"
+    "attackable": "0"
   },
   "103": {
     "id": "103",
@@ -3244,8 +3190,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Susan"
+    "attackable": "0"
   },
   "104": {
     "id": "104",
@@ -3338,8 +3283,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Philbert"
+    "attackable": "0"
   },
   "107": {
     "id": "107",
@@ -3370,8 +3314,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Charles"
+    "attackable": "0"
   },
   "108": {
     "id": "108",
@@ -3402,8 +3345,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Doris"
+    "attackable": "0"
   },
   "109": {
     "id": "109",
@@ -3434,8 +3376,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Marty"
+    "attackable": "0"
   },
   "110": {
     "id": "110",
@@ -3466,8 +3407,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Joe"
+    "attackable": "0"
   },
   "111": {
     "id": "111",
@@ -3498,8 +3438,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Darla"
+    "attackable": "0"
   },
   "112": {
     "id": "112",
@@ -3530,8 +3469,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bubba"
+    "attackable": "0"
   },
   "113": {
     "id": "113",
@@ -3562,8 +3500,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Danny"
+    "attackable": "0"
   },
   "114": {
     "id": "114",
@@ -3594,8 +3531,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Charlotte"
+    "attackable": "0"
   },
   "115": {
     "id": "115",
@@ -3626,8 +3562,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Stevie"
+    "attackable": "0"
   },
   "116": {
     "id": "116",
@@ -3689,8 +3624,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Liam"
+    "attackable": "0"
   },
   "118": {
     "id": "118",
@@ -3721,8 +3655,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Gregor"
+    "attackable": "0"
   },
   "119": {
     "id": "119",
@@ -3753,8 +3686,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Rosalind"
+    "attackable": "0"
   },
   "120": {
     "id": "120",
@@ -3785,8 +3717,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Max"
+    "attackable": "0"
   },
   "121": {
     "id": "121",
@@ -3817,8 +3748,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Franklin"
+    "attackable": "0"
   },
   "122": {
     "id": "122",
@@ -3849,8 +3779,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Albertus"
+    "attackable": "0"
   },
   "123": {
     "id": "123",
@@ -3881,8 +3810,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Isaac"
+    "attackable": "0"
   },
   "124": {
     "id": "124",
@@ -3913,8 +3841,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tobias"
+    "attackable": "0"
   },
   "125": {
     "id": "125",
@@ -3945,8 +3872,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Zosi"
+    "attackable": "0"
   },
   "126": {
     "id": "126",
@@ -3977,8 +3903,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Eden"
+    "attackable": "0"
   },
   "127": {
     "id": "127",
@@ -4164,8 +4089,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "1",
-    "name": "BETA Flower Barrel"
+    "attackable": "1"
   },
   "133": {
     "id": "133",
@@ -4258,8 +4182,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "BETA Flower Barrel"
+    "attackable": "0"
   },
   "136": {
     "id": "136",
@@ -4693,8 +4616,7 @@
     "soundMediaRefId": "0",
     "level": "2",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Caged Phantom"
+    "attackable": "0"
   },
   "150": {
     "id": "150",
@@ -4725,8 +4647,7 @@
     "soundMediaRefId": "0",
     "level": "2",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Caged Phantom"
+    "attackable": "0"
   },
   "151": {
     "id": "151",
@@ -4757,8 +4678,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "1",
-    "name": "BETA Flower Barrel"
+    "attackable": "1"
   },
   "152": {
     "id": "152",
@@ -4913,8 +4833,7 @@
     "soundMediaRefId": "0",
     "level": "2",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Caged Phantom"
+    "attackable": "0"
   },
   "157": {
     "id": "157",
@@ -5007,8 +4926,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Philippe"
+    "attackable": "0"
   },
   "160": {
     "id": "160",
@@ -5039,8 +4957,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Andy"
+    "attackable": "0"
   },
   "161": {
     "id": "161",
@@ -5071,8 +4988,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Piper"
+    "attackable": "0"
   },
   "162": {
     "id": "162",
@@ -5103,8 +5019,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Monty"
+    "attackable": "0"
   },
   "163": {
     "id": "163",
@@ -5135,8 +5050,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Virgil"
+    "attackable": "0"
   },
   "164": {
     "id": "164",
@@ -5167,8 +5081,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Luke"
+    "attackable": "0"
   },
   "165": {
     "id": "165",
@@ -5199,8 +5112,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Jean"
+    "attackable": "0"
   },
   "166": {
     "id": "166",
@@ -5572,8 +5484,7 @@
     "soundMediaRefId": "0",
     "level": "6",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Phantoms!"
+    "attackable": "0"
   },
   "178": {
     "id": "178",
@@ -5604,8 +5515,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "1",
-    "name": "BETA Flower Barrel"
+    "attackable": "1"
   },
   "179": {
     "id": "179",
@@ -5729,8 +5639,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "1",
-    "name": "BETA Flower Barrel"
+    "attackable": "1"
   },
   "183": {
     "id": "183",
@@ -5916,8 +5825,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Steve"
+    "attackable": "0"
   },
   "189": {
     "id": "189",
@@ -5948,8 +5856,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Allie"
+    "attackable": "0"
   },
   "190": {
     "id": "190",
@@ -5980,8 +5887,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Jane"
+    "attackable": "0"
   },
   "191": {
     "id": "191",
@@ -6012,8 +5918,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Marie"
+    "attackable": "0"
   },
   "192": {
     "id": "192",
@@ -6044,8 +5949,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Ned"
+    "attackable": "0"
   },
   "193": {
     "id": "193",
@@ -6076,8 +5980,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Klaus"
+    "attackable": "0"
   },
   "194": {
     "id": "194",
@@ -6170,8 +6073,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "197": {
     "id": "197",
@@ -6388,8 +6290,7 @@
     "soundMediaRefId": "0",
     "level": "2",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Caged Phantom"
+    "attackable": "0"
   },
   "204": {
     "id": "204",
@@ -6420,8 +6321,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Duke"
+    "attackable": "0"
   },
   "205": {
     "id": "205",
@@ -6452,8 +6352,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Maverick"
+    "attackable": "0"
   },
   "206": {
     "id": "206",
@@ -6484,8 +6383,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Gloria"
+    "attackable": "0"
   },
   "207": {
     "id": "207",
@@ -6516,8 +6414,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Frenzy"
+    "attackable": "0"
   },
   "208": {
     "id": "208",
@@ -6548,8 +6445,7 @@
     "soundMediaRefId": "0",
     "level": "5",
     "damageTouch": "0",
-    "attackable": "1",
-    "name": "BETA Flower Barrel"
+    "attackable": "1"
   },
   "209": {
     "id": "209",
@@ -6642,8 +6538,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Liza Statue"
+    "attackable": "0"
   },
   "212": {
     "id": "212",
@@ -6705,8 +6600,7 @@
     "soundMediaRefId": "0",
     "level": "5",
     "damageTouch": "0",
-    "attackable": "1",
-    "name": "BETA Flower Barrel"
+    "attackable": "1"
   },
   "214": {
     "id": "214",
@@ -6737,8 +6631,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "BETA Flower Barrel"
+    "attackable": "0"
   },
   "215": {
     "id": "215",
@@ -6769,8 +6662,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "BETA Flower Barrel"
+    "attackable": "0"
   },
   "216": {
     "id": "216",
@@ -6801,8 +6693,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "BETA Flower Barrel"
+    "attackable": "0"
   },
   "217": {
     "id": "217",
@@ -6833,8 +6724,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "BETA Flower Barrel"
+    "attackable": "0"
   },
   "218": {
     "id": "218",
@@ -6896,8 +6786,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tavie Statue"
+    "attackable": "0"
   },
   "220": {
     "id": "220",
@@ -6928,8 +6817,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Captain"
+    "attackable": "0"
   },
   "221": {
     "id": "221",
@@ -6960,8 +6848,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Soldier"
+    "attackable": "0"
   },
   "222": {
     "id": "222",
@@ -6992,8 +6879,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Soldier"
+    "attackable": "0"
   },
   "223": {
     "id": "223",
@@ -7024,8 +6910,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Captain"
+    "attackable": "0"
   },
   "224": {
     "id": "224",
@@ -7056,8 +6941,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Soldier"
+    "attackable": "0"
   },
   "225": {
     "id": "225",
@@ -7088,8 +6972,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Soldier"
+    "attackable": "0"
   },
   "226": {
     "id": "226",
@@ -7120,8 +7003,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Captain"
+    "attackable": "0"
   },
   "227": {
     "id": "227",
@@ -7152,8 +7034,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Soldier"
+    "attackable": "0"
   },
   "228": {
     "id": "228",
@@ -7184,8 +7065,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Soldier"
+    "attackable": "0"
   },
   "229": {
     "id": "229",
@@ -7216,8 +7096,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Captain"
+    "attackable": "0"
   },
   "230": {
     "id": "230",
@@ -7248,8 +7127,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Soldier"
+    "attackable": "0"
   },
   "231": {
     "id": "231",
@@ -7280,8 +7158,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Soldier"
+    "attackable": "0"
   },
   "232": {
     "id": "232",
@@ -7312,8 +7189,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "233": {
     "id": "233",
@@ -7344,8 +7220,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Soldier"
+    "attackable": "0"
   },
   "234": {
     "id": "234",
@@ -7376,8 +7251,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Soldier"
+    "attackable": "0"
   },
   "235": {
     "id": "235",
@@ -7408,8 +7282,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Soldier"
+    "attackable": "0"
   },
   "236": {
     "id": "236",
@@ -7440,8 +7313,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Soldier"
+    "attackable": "0"
   },
   "237": {
     "id": "237",
@@ -7472,8 +7344,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Soldier"
+    "attackable": "0"
   },
   "238": {
     "id": "238",
@@ -7504,8 +7375,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bottlenose Soldier"
+    "attackable": "0"
   },
   "239": {
     "id": "239",
@@ -7536,8 +7406,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Admiral Venicia"
+    "attackable": "0"
   },
   "240": {
     "id": "240",
@@ -7692,8 +7561,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Liza Statue"
+    "attackable": "0"
   },
   "245": {
     "id": "245",
@@ -7817,8 +7685,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "1",
-    "name": "BETA Flower Barrel"
+    "attackable": "1"
   },
   "249": {
     "id": "249",
@@ -8190,8 +8057,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "261": {
     "id": "261",
@@ -8222,8 +8088,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "262": {
     "id": "262",
@@ -8254,8 +8119,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "263": {
     "id": "263",
@@ -8286,8 +8150,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "264": {
     "id": "264",
@@ -8318,8 +8181,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "265": {
     "id": "265",
@@ -8350,8 +8212,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Darter"
+    "attackable": "0"
   },
   "266": {
     "id": "266",
@@ -8382,8 +8243,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "267": {
     "id": "267",
@@ -8476,8 +8336,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Disco"
+    "attackable": "0"
   },
   "270": {
     "id": "270",
@@ -8508,8 +8367,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Pouncer"
+    "attackable": "0"
   },
   "271": {
     "id": "271",
@@ -8540,8 +8398,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Venus"
+    "attackable": "0"
   },
   "272": {
     "id": "272",
@@ -8572,8 +8429,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Quasar"
+    "attackable": "0"
   },
   "273": {
     "id": "273",
@@ -9565,8 +9421,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "305": {
     "id": "305",
@@ -9597,8 +9452,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "306": {
     "id": "306",
@@ -9629,8 +9483,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Ferris"
+    "attackable": "0"
   },
   "307": {
     "id": "307",
@@ -9661,8 +9514,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Juliet"
+    "attackable": "0"
   },
   "308": {
     "id": "308",
@@ -9693,8 +9545,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Hector"
+    "attackable": "0"
   },
   "309": {
     "id": "309",
@@ -9725,8 +9576,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Lori"
+    "attackable": "0"
   },
   "310": {
     "id": "310",
@@ -9757,8 +9607,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Teddy"
+    "attackable": "0"
   },
   "311": {
     "id": "311",
@@ -9789,8 +9638,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Rachel"
+    "attackable": "0"
   },
   "312": {
     "id": "312",
@@ -9821,8 +9669,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Rose"
+    "attackable": "0"
   },
   "313": {
     "id": "313",
@@ -9853,8 +9700,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "314": {
     "id": "314",
@@ -9885,8 +9731,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bella"
+    "attackable": "0"
   },
   "315": {
     "id": "315",
@@ -9917,8 +9762,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Calvin"
+    "attackable": "0"
   },
   "316": {
     "id": "316",
@@ -9949,8 +9793,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "317": {
     "id": "317",
@@ -9981,8 +9824,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "318": {
     "id": "318",
@@ -10013,8 +9855,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Patrick"
+    "attackable": "0"
   },
   "319": {
     "id": "319",
@@ -10045,8 +9886,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Connor"
+    "attackable": "0"
   },
   "320": {
     "id": "320",
@@ -10077,8 +9917,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Fiona"
+    "attackable": "0"
   },
   "321": {
     "id": "321",
@@ -10109,8 +9948,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Keegan"
+    "attackable": "0"
   },
   "322": {
     "id": "322",
@@ -10141,8 +9979,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Dougal"
+    "attackable": "0"
   },
   "323": {
     "id": "323",
@@ -10173,8 +10010,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Erin"
+    "attackable": "0"
   },
   "324": {
     "id": "324",
@@ -10205,8 +10041,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "325": {
     "id": "325",
@@ -10237,8 +10072,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Lolly"
+    "attackable": "0"
   },
   "326": {
     "id": "326",
@@ -10269,8 +10103,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Gummy"
+    "attackable": "0"
   },
   "327": {
     "id": "327",
@@ -10301,8 +10134,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Choco"
+    "attackable": "0"
   },
   "328": {
     "id": "328",
@@ -10333,8 +10165,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Candy"
+    "attackable": "0"
   },
   "329": {
     "id": "329",
@@ -10365,8 +10196,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Sweets"
+    "attackable": "0"
   },
   "330": {
     "id": "330",
@@ -10397,8 +10227,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Toffee"
+    "attackable": "0"
   },
   "331": {
     "id": "331",
@@ -10429,8 +10258,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Taffy"
+    "attackable": "0"
   },
   "332": {
     "id": "332",
@@ -10461,8 +10289,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "333": {
     "id": "333",
@@ -10679,8 +10506,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Minty"
+    "attackable": "0"
   },
   "340": {
     "id": "340",
@@ -10742,8 +10568,7 @@
     "soundMediaRefId": "0",
     "level": "6",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Caged Phantom"
+    "attackable": "0"
   },
   "342": {
     "id": "342",
@@ -10774,8 +10599,7 @@
     "soundMediaRefId": "0",
     "level": "6",
     "damageTouch": "10",
-    "attackable": "0",
-    "name": "Find the new reward location!"
+    "attackable": "0"
   },
   "343": {
     "id": "343",
@@ -11054,8 +10878,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Alexander"
+    "attackable": "0"
   },
   "352": {
     "id": "352",
@@ -11086,8 +10909,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Leon"
+    "attackable": "0"
   },
   "353": {
     "id": "353",
@@ -11118,8 +10940,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Julia"
+    "attackable": "0"
   },
   "354": {
     "id": "354",
@@ -11150,8 +10971,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Moto"
+    "attackable": "0"
   },
   "355": {
     "id": "355",
@@ -11182,8 +11002,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Joan"
+    "attackable": "0"
   },
   "356": {
     "id": "356",
@@ -11214,8 +11033,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Grace"
+    "attackable": "0"
   },
   "357": {
     "id": "357",
@@ -11246,8 +11064,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "William"
+    "attackable": "0"
   },
   "358": {
     "id": "358",
@@ -11278,8 +11095,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Richard"
+    "attackable": "0"
   },
   "359": {
     "id": "359",
@@ -11310,8 +11126,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Jewel"
+    "attackable": "0"
   },
   "360": {
     "id": "360",
@@ -11404,8 +11219,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Annette the Weaver"
+    "attackable": "0"
   },
   "363": {
     "id": "363",
@@ -11436,8 +11250,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Sawyer the Carpenter"
+    "attackable": "0"
   },
   "364": {
     "id": "364",
@@ -11468,8 +11281,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Rocky the Stonecutter"
+    "attackable": "0"
   },
   "365": {
     "id": "365",
@@ -11500,8 +11312,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Orson the Blacksmith"
+    "attackable": "0"
   },
   "366": {
     "id": "366",
@@ -11532,8 +11343,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Evelyn the Gardener"
+    "attackable": "0"
   },
   "367": {
     "id": "367",
@@ -11564,8 +11374,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Carrie the Crafter"
+    "attackable": "0"
   },
   "368": {
     "id": "368",
@@ -11596,8 +11405,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Locksley the Keeper"
+    "attackable": "0"
   },
   "369": {
     "id": "369",
@@ -11969,8 +11777,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Chloe"
+    "attackable": "0"
   },
   "381": {
     "id": "381",
@@ -12001,8 +11808,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Bowie"
+    "attackable": "0"
   },
   "382": {
     "id": "382",
@@ -12033,8 +11839,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "383": {
     "id": "383",
@@ -12065,8 +11870,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "384": {
     "id": "384",
@@ -12159,8 +11963,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "387": {
     "id": "387",
@@ -12284,8 +12087,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Wolfy"
+    "attackable": "0"
   },
   "391": {
     "id": "391",
@@ -12316,8 +12118,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Artie"
+    "attackable": "0"
   },
   "392": {
     "id": "392",
@@ -12348,8 +12149,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Canis Lupus Arctos"
+    "attackable": "0"
   },
   "393": {
     "id": "393",
@@ -12411,8 +12211,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "395": {
     "id": "395",
@@ -12505,8 +12304,7 @@
     "soundMediaRefId": "0",
     "level": "1",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Crocodile"
+    "attackable": "0"
   },
   "398": {
     "id": "398",
@@ -12630,8 +12428,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Dustin"
+    "attackable": "0"
   },
   "402": {
     "id": "402",
@@ -12662,8 +12459,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Katie"
+    "attackable": "0"
   },
   "403": {
     "id": "403",
@@ -12694,8 +12490,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Ivy"
+    "attackable": "0"
   },
   "404": {
     "id": "404",
@@ -12726,8 +12521,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Quinn"
+    "attackable": "0"
   },
   "405": {
     "id": "405",
@@ -12758,8 +12552,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Hazel"
+    "attackable": "0"
   },
   "406": {
     "id": "406",
@@ -12821,8 +12614,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tracy"
+    "attackable": "0"
   },
   "408": {
     "id": "408",
@@ -12884,8 +12676,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Noah"
+    "attackable": "0"
   },
   "410": {
     "id": "410",
@@ -12916,8 +12707,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Phineas"
+    "attackable": "0"
   },
   "411": {
     "id": "411",
@@ -12948,8 +12738,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Captain"
+    "attackable": "0"
   },
   "412": {
     "id": "412",
@@ -12980,8 +12769,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "413": {
     "id": "413",
@@ -13012,8 +12800,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "414": {
     "id": "414",
@@ -13044,8 +12831,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "415": {
     "id": "415",
@@ -13076,8 +12862,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Captain"
+    "attackable": "0"
   },
   "416": {
     "id": "416",
@@ -13108,8 +12893,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "417": {
     "id": "417",
@@ -13233,8 +13017,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "421": {
     "id": "421",
@@ -13265,8 +13048,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "422": {
     "id": "422",
@@ -13328,8 +13110,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "424": {
     "id": "424",
@@ -13360,8 +13141,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "425": {
     "id": "425",
@@ -13423,8 +13203,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "427": {
     "id": "427",
@@ -13455,8 +13234,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Captain"
+    "attackable": "0"
   },
   "428": {
     "id": "428",
@@ -13487,8 +13265,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "429": {
     "id": "429",
@@ -13550,8 +13327,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "1",
-    "name": "BETA Flower Barrel"
+    "attackable": "1"
   },
   "431": {
     "id": "431",
@@ -13613,8 +13389,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "433": {
     "id": "433",
@@ -13645,8 +13420,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "1",
-    "name": "BETA Flower Barrel"
+    "attackable": "1"
   },
   "434": {
     "id": "434",
@@ -13677,8 +13451,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Sir Gilbert Statue"
+    "attackable": "0"
   },
   "435": {
     "id": "435",
@@ -13709,8 +13482,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Graham Statue"
+    "attackable": "0"
   },
   "436": {
     "id": "436",
@@ -13741,8 +13513,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Cosmo Statue"
+    "attackable": "0"
   },
   "437": {
     "id": "437",
@@ -13773,8 +13544,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "438": {
     "id": "438",
@@ -13805,8 +13575,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Lei"
+    "attackable": "0"
   },
   "439": {
     "id": "439",
@@ -13868,8 +13637,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "9"
+    "attackable": "0"
   },
   "441": {
     "id": "441",
@@ -13900,8 +13668,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Yan"
+    "attackable": "0"
   },
   "442": {
     "id": "442",
@@ -13932,8 +13699,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Ping"
+    "attackable": "0"
   },
   "443": {
     "id": "443",
@@ -13964,8 +13730,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Li"
+    "attackable": "0"
   },
   "444": {
     "id": "444",
@@ -13996,8 +13761,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "445": {
     "id": "445",
@@ -14028,8 +13792,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "446": {
     "id": "446",
@@ -14060,8 +13823,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "447": {
     "id": "447",
@@ -14092,8 +13854,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "448": {
     "id": "448",
@@ -14124,8 +13885,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "449": {
     "id": "449",
@@ -14156,8 +13916,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "1,000 Tickets"
+    "attackable": "0"
   },
   "450": {
     "id": "450",
@@ -14219,8 +13978,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "452": {
     "id": "452",
@@ -14282,8 +14040,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Fang"
+    "attackable": "0"
   },
   "454": {
     "id": "454",
@@ -14376,8 +14133,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Greely Statue"
+    "attackable": "0"
   },
   "457": {
     "id": "457",
@@ -14408,8 +14164,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Fluffy"
+    "attackable": "0"
   },
   "458": {
     "id": "458",
@@ -14440,8 +14195,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "459": {
     "id": "459",
@@ -14472,8 +14226,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "460": {
     "id": "460",
@@ -14504,8 +14257,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "461": {
     "id": "461",
@@ -14536,8 +14288,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Trooper"
+    "attackable": "0"
   },
   "462": {
     "id": "462",
@@ -14568,8 +14319,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Captain"
+    "attackable": "0"
   },
   "463": {
     "id": "463",
@@ -14600,8 +14350,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Captain"
+    "attackable": "0"
   },
   "464": {
     "id": "464",
@@ -14632,8 +14381,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Captain"
+    "attackable": "0"
   },
   "465": {
     "id": "465",
@@ -14664,8 +14412,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Tiger Captain"
+    "attackable": "0"
   },
   "466": {
     "id": "466",
@@ -14727,8 +14474,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Jing"
+    "attackable": "0"
   },
   "468": {
     "id": "468",
@@ -14759,8 +14505,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Greely Statue"
+    "attackable": "0"
   },
   "469": {
     "id": "469",
@@ -14791,8 +14536,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Downy"
+    "attackable": "0"
   },
   "470": {
     "id": "470",
@@ -14823,8 +14567,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Comfy"
+    "attackable": "0"
   },
   "471": {
     "id": "471",
@@ -14855,8 +14598,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Fleecy"
+    "attackable": "0"
   },
   "472": {
     "id": "472",
@@ -14887,8 +14629,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Fuzzy"
+    "attackable": "0"
   },
   "473": {
     "id": "473",
@@ -14950,8 +14691,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Flocculent"
+    "attackable": "0"
   },
   "475": {
     "id": "475",
@@ -14982,8 +14722,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Fuzzy"
+    "attackable": "0"
   },
   "476": {
     "id": "476",
@@ -15014,8 +14753,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Fleecy"
+    "attackable": "0"
   },
   "477": {
     "id": "477",
@@ -15046,8 +14784,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Comfy"
+    "attackable": "0"
   },
   "478": {
     "id": "478",
@@ -15078,8 +14815,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Downy"
+    "attackable": "0"
   },
   "479": {
     "id": "479",
@@ -15110,8 +14846,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Fluffy"
+    "attackable": "0"
   },
   "480": {
     "id": "480",
@@ -15142,8 +14877,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Eden"
+    "attackable": "0"
   },
   "481": {
     "id": "481",
@@ -15174,8 +14908,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Wei"
+    "attackable": "0"
   },
   "482": {
     "id": "482",
@@ -15206,8 +14939,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Min"
+    "attackable": "0"
   },
   "483": {
     "id": "483",
@@ -15269,8 +15001,7 @@
     "soundMediaRefId": "0",
     "level": "3",
     "damageTouch": "0",
-    "attackable": "2",
-    "name": "Phantom Toy"
+    "attackable": "2"
   },
   "485": {
     "id": "485",
@@ -15301,8 +15032,7 @@
     "soundMediaRefId": "0",
     "level": "4",
     "damageTouch": "-1",
-    "attackable": "0",
-    "name": "Phantoms!"
+    "attackable": "0"
   },
   "486": {
     "id": "486",
@@ -15364,8 +15094,7 @@
     "soundMediaRefId": "0",
     "level": "5",
     "damageTouch": "0",
-    "attackable": "2",
-    "name": "Phantom Toy"
+    "attackable": "2"
   },
   "488": {
     "id": "488",
@@ -15427,8 +15156,7 @@
     "soundMediaRefId": "0",
     "level": "5",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Giant Phantom"
+    "attackable": "0"
   },
   "490": {
     "id": "490",
@@ -15459,8 +15187,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "q_26_NPC01"
+    "attackable": "0"
   },
   "491": {
     "id": "491",
@@ -15491,8 +15218,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "q_26_NPC02"
+    "attackable": "0"
   },
   "492": {
     "id": "492",
@@ -15554,8 +15280,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Crocodile"
+    "attackable": "0"
   },
   "494": {
     "id": "494",
@@ -15803,8 +15528,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Peck Statue"
+    "attackable": "0"
   },
   "502": {
     "id": "502",
@@ -15866,8 +15590,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Gary"
+    "attackable": "0"
   },
   "504": {
     "id": "504",
@@ -15898,8 +15621,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Barry"
+    "attackable": "0"
   },
   "505": {
     "id": "505",
@@ -15930,8 +15652,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Terry"
+    "attackable": "0"
   },
   "506": {
     "id": "506",
@@ -15962,8 +15683,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Jerry"
+    "attackable": "0"
   },
   "507": {
     "id": "507",
@@ -15994,8 +15714,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Larry"
+    "attackable": "0"
   },
   "508": {
     "id": "508",
@@ -16026,8 +15745,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Harry"
+    "attackable": "0"
   },
   "509": {
     "id": "509",
@@ -16058,8 +15776,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Perry"
+    "attackable": "0"
   },
   "510": {
     "id": "510",
@@ -16090,8 +15807,7 @@
     "soundMediaRefId": "0",
     "level": "5",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Giant Phantom"
+    "attackable": "0"
   },
   "511": {
     "id": "511",
@@ -16122,8 +15838,7 @@
     "soundMediaRefId": "0",
     "level": "5",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Giant Phantom"
+    "attackable": "0"
   },
   "512": {
     "id": "512",
@@ -16154,8 +15869,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "q_26_NPC03"
+    "attackable": "0"
   },
   "513": {
     "id": "513",
@@ -16279,8 +15993,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "q_26_NPC04"
+    "attackable": "0"
   },
   "517": {
     "id": "517",
@@ -16373,8 +16086,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "q_26_NPC05"
+    "attackable": "0"
   },
   "520": {
     "id": "520",
@@ -16777,8 +16489,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "q_26_NPC05"
+    "attackable": "0"
   },
   "533": {
     "id": "533",
@@ -16809,8 +16520,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Fisher"
+    "attackable": "0"
   },
   "534": {
     "id": "534",
@@ -16841,8 +16551,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Alana"
+    "attackable": "0"
   },
   "535": {
     "id": "535",
@@ -16873,8 +16582,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Miner"
+    "attackable": "0"
   },
   "536": {
     "id": "536",
@@ -16905,8 +16613,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Miner"
+    "attackable": "0"
   },
   "537": {
     "id": "537",
@@ -16937,8 +16644,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Wader"
+    "attackable": "0"
   },
   "538": {
     "id": "538",
@@ -16969,8 +16675,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Treasure Hunter"
+    "attackable": "0"
   },
   "539": {
     "id": "539",
@@ -17001,8 +16706,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Lani"
+    "attackable": "0"
   },
   "540": {
     "id": "540",
@@ -17033,8 +16737,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Kaleo"
+    "attackable": "0"
   },
   "541": {
     "id": "541",
@@ -17065,8 +16768,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Keanu"
+    "attackable": "0"
   },
   "542": {
     "id": "542",
@@ -17097,8 +16799,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Akela"
+    "attackable": "0"
   },
   "543": {
     "id": "543",
@@ -17129,8 +16830,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Kaui"
+    "attackable": "0"
   },
   "544": {
     "id": "544",
@@ -17161,8 +16861,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Manu"
+    "attackable": "0"
   },
   "545": {
     "id": "545",
@@ -17193,8 +16892,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Mele"
+    "attackable": "0"
   },
   "546": {
     "id": "546",
@@ -17225,8 +16923,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Noelani"
+    "attackable": "0"
   },
   "547": {
     "id": "547",
@@ -17257,8 +16954,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Trader"
+    "attackable": "0"
   },
   "548": {
     "id": "548",
@@ -17382,8 +17078,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Trader"
+    "attackable": "0"
   },
   "552": {
     "id": "552",
@@ -17414,8 +17109,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Trader"
+    "attackable": "0"
   },
   "553": {
     "id": "553",
@@ -17446,8 +17140,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Trader"
+    "attackable": "0"
   },
   "554": {
     "id": "554",
@@ -17664,8 +17357,7 @@
     "soundMediaRefId": "0",
     "level": "5",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Giant Phantom"
+    "attackable": "0"
   },
   "561": {
     "id": "561",
@@ -17820,8 +17512,7 @@
     "soundMediaRefId": "0",
     "level": "0",
     "damageTouch": "0",
-    "attackable": "0",
-    "name": "Liza Statue"
+    "attackable": "0"
   },
   "566": {
     "id": "566",
@@ -18317,7 +18008,6 @@
     "soundMediaRefId": "0",
     "level": "5",
     "damageTouch": "0",
-    "attackable": "2",
-    "name": "Phantom Toy"
+    "attackable": "2"
   }
 }

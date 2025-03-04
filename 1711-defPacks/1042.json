@@ -9,7 +9,7 @@
     "type": "13",
     "triggerAmount": "1000",
     "userVarRef": "1",
-    "name": "1_Gems_1000_Gems_Earned"
+    "name": "1000 Gems!"
   },
   "2": {
     "id": "2",
@@ -21,7 +21,7 @@
     "type": "13",
     "triggerAmount": "10000",
     "userVarRef": "1",
-    "name": "2_Gems_10000_Gems_Earned"
+    "name": "10,000 Gems!"
   },
   "3": {
     "id": "3",
@@ -33,7 +33,7 @@
     "type": "13",
     "triggerAmount": "25000",
     "userVarRef": "1",
-    "name": "3_Gems_25000_Gems_Earned"
+    "name": "25,000 Gems!"
   },
   "4": {
     "id": "4",
@@ -45,7 +45,7 @@
     "type": "13",
     "triggerAmount": "50000",
     "userVarRef": "1",
-    "name": "4_Gems_50000_Gems_Earned"
+    "name": "50,000 Gems!"
   },
   "5": {
     "id": "5",
@@ -57,7 +57,7 @@
     "type": "13",
     "triggerAmount": "100000",
     "userVarRef": "1",
-    "name": "5_Gems_100000_Gems_Earned"
+    "name": "100,000 Gems!"
   },
   "6": {
     "id": "6",
@@ -69,7 +69,7 @@
     "type": "13",
     "triggerAmount": "5000",
     "userVarRef": "2",
-    "name": "6_Gems_5000_Gems_Spent"
+    "name": "5000 Gems Spent!"
   },
   "7": {
     "id": "7",
@@ -81,7 +81,7 @@
     "type": "13",
     "triggerAmount": "15000",
     "userVarRef": "2",
-    "name": "7_Gems_15000_Gems_Spent"
+    "name": "15,000 Gems Spent!"
   },
   "8": {
     "id": "8",
@@ -93,7 +93,7 @@
     "type": "13",
     "triggerAmount": "35000",
     "userVarRef": "2",
-    "name": "8_Gems_35000_Gems_Spent"
+    "name": "35,000 Gems Spent!"
   },
   "9": {
     "id": "9",
@@ -105,7 +105,7 @@
     "type": "13",
     "triggerAmount": "65000",
     "userVarRef": "2",
-    "name": "9_Gems_65000_Gems_Spent"
+    "name": "65,000 Gems Spent!"
   },
   "10": {
     "id": "10",
@@ -117,7 +117,7 @@
     "type": "13",
     "triggerAmount": "100000",
     "userVarRef": "2",
-    "name": "10_Gems_100000_Gems_Spent"
+    "name": "100,000 Gems Spent!"
   },
   "11": {
     "id": "11",
@@ -129,7 +129,7 @@
     "type": "25",
     "triggerAmount": "25",
     "userVarRef": "3",
-    "name": "5_Shop_25th_Den_Item"
+    "name": "25th Den Item!"
   },
   "12": {
     "id": "12",
@@ -141,7 +141,7 @@
     "type": "25",
     "triggerAmount": "50",
     "userVarRef": "3",
-    "name": "6_Shop_50th_Den_Item"
+    "name": "50th Den Item!"
   },
   "13": {
     "id": "13",
@@ -153,7 +153,7 @@
     "type": "25",
     "triggerAmount": "100",
     "userVarRef": "3",
-    "name": "7_Shop_100th_Den_Item"
+    "name": "100th Den Item!"
   },
   "14": {
     "id": "14",
@@ -165,7 +165,7 @@
     "type": "25",
     "triggerAmount": "250",
     "userVarRef": "3",
-    "name": "8_Shop_250th_Den_Item"
+    "name": "250th Den Item!"
   },
   "15": {
     "id": "15",
@@ -177,7 +177,7 @@
     "type": "25",
     "triggerAmount": "25",
     "userVarRef": "4",
-    "name": "1_Shop_Clothes_Shopper_25"
+    "name": "Clothes Shopper 25!"
   },
   "16": {
     "id": "16",
@@ -189,7 +189,7 @@
     "type": "25",
     "triggerAmount": "50",
     "userVarRef": "4",
-    "name": "2_Shop_Clothes_Shopper_50"
+    "name": "Clothes Shopper 50!"
   },
   "17": {
     "id": "17",
@@ -201,7 +201,7 @@
     "type": "25",
     "triggerAmount": "100",
     "userVarRef": "4",
-    "name": "3_Shop_Clothes_Shopper_100"
+    "name": "Clothes Shopper 100!"
   },
   "18": {
     "id": "18",
@@ -213,7 +213,7 @@
     "type": "25",
     "triggerAmount": "250",
     "userVarRef": "4",
-    "name": "4_Shop_Clothes_Shopper_250"
+    "name": "Clothes Shopper 250!"
   },
   "19": {
     "id": "19",
@@ -225,7 +225,7 @@
     "type": "24",
     "triggerAmount": "1",
     "userVarRef": "5",
-    "name": "X_***REUSE_ME***"
+    "name": "Chatterbox!"
   },
   "20": {
     "id": "20",
@@ -237,7 +237,7 @@
     "type": "6",
     "triggerAmount": "10",
     "userVarRef": "6",
-    "name": "1_DoubleUp_Matchmaker"
+    "name": "Matchmaker!"
   },
   "21": {
     "id": "21",
@@ -249,7 +249,7 @@
     "type": "6",
     "triggerAmount": "25",
     "userVarRef": "6",
-    "name": "2_DoubleUp_Matchminor"
+    "name": "Matchminor!"
   },
   "22": {
     "id": "22",
@@ -261,7 +261,7 @@
     "type": "6",
     "triggerAmount": "40",
     "userVarRef": "6",
-    "name": "3_DoubleUp_Matchmajor"
+    "name": "Matchmajor!"
   },
   "23": {
     "id": "23",
@@ -273,7 +273,7 @@
     "type": "6",
     "triggerAmount": "60",
     "userVarRef": "6",
-    "name": "4_DoubleUp_Matchmaster"
+    "name": "Matchmaster!"
   },
   "24": {
     "id": "24",
@@ -285,7 +285,7 @@
     "type": "6",
     "triggerAmount": "1",
     "userVarRef": "7",
-    "name": "5_DoubleUp_Fast_Match"
+    "name": "Fast Match!"
   },
   "25": {
     "id": "25",
@@ -297,7 +297,7 @@
     "type": "19",
     "triggerAmount": "5",
     "userVarRef": "8",
-    "name": "1_Overflow_Flowbie"
+    "name": "Flowbie!"
   },
   "26": {
     "id": "26",
@@ -309,7 +309,7 @@
     "type": "19",
     "triggerAmount": "15",
     "userVarRef": "8",
-    "name": "2_Overflow_Flowbot"
+    "name": "Flowbot!"
   },
   "27": {
     "id": "27",
@@ -321,7 +321,7 @@
     "type": "19",
     "triggerAmount": "30",
     "userVarRef": "8",
-    "name": "3_Overflow_Flowmaster"
+    "name": "Flowmaster!"
   },
   "28": {
     "id": "28",
@@ -333,7 +333,7 @@
     "type": "19",
     "triggerAmount": "50",
     "userVarRef": "8",
-    "name": "4_Overflow_Open_The_Floodgates"
+    "name": "Open The Floodgates!"
   },
   "29": {
     "id": "29",
@@ -345,7 +345,7 @@
     "type": "19",
     "triggerAmount": "50",
     "userVarRef": "9",
-    "name": "5_Overflow_Overflow_Boss"
+    "name": "Overflow Boss!"
   },
   "30": {
     "id": "30",
@@ -357,7 +357,7 @@
     "type": "19",
     "triggerAmount": "100",
     "userVarRef": "9",
-    "name": "6_Overflow_Overflow_Master"
+    "name": "Overflow Master!"
   },
   "31": {
     "id": "31",
@@ -369,7 +369,7 @@
     "type": "33",
     "triggerAmount": "5",
     "userVarRef": "10",
-    "name": "1_TempleOfTrivia_Whiz_Kid"
+    "name": "Whiz Kid!"
   },
   "32": {
     "id": "32",
@@ -381,7 +381,7 @@
     "type": "33",
     "triggerAmount": "10",
     "userVarRef": "10",
-    "name": "2_TempleOfTrivia_Prodigy"
+    "name": "Prodigy!"
   },
   "33": {
     "id": "33",
@@ -393,7 +393,7 @@
     "type": "33",
     "triggerAmount": "25",
     "userVarRef": "10",
-    "name": "3_TempleOfTrivia_Head_Of_The_Cla"
+    "name": "Head Of The Class!"
   },
   "34": {
     "id": "34",
@@ -405,7 +405,7 @@
     "type": "33",
     "triggerAmount": "50",
     "userVarRef": "10",
-    "name": "4_TempleOfTrivia_A+"
+    "name": "A+!"
   },
   "35": {
     "id": "35",
@@ -417,7 +417,7 @@
     "type": "33",
     "triggerAmount": "1",
     "userVarRef": "11",
-    "name": "5_TempleOfTrivia_Trivia_Star"
+    "name": "Trivia Star!"
   },
   "36": {
     "id": "36",
@@ -429,7 +429,7 @@
     "type": "36",
     "triggerAmount": "10",
     "userVarRef": "12",
-    "name": "1_WindRider_Stratus"
+    "name": "Stratus!"
   },
   "37": {
     "id": "37",
@@ -441,7 +441,7 @@
     "type": "36",
     "triggerAmount": "20",
     "userVarRef": "12",
-    "name": "2_WindRider_Nimbus"
+    "name": "Nimbus!"
   },
   "38": {
     "id": "38",
@@ -453,7 +453,7 @@
     "type": "36",
     "triggerAmount": "35",
     "userVarRef": "12",
-    "name": "3_WindRider_Cumulus"
+    "name": "Cumulus!"
   },
   "39": {
     "id": "39",
@@ -465,7 +465,7 @@
     "type": "36",
     "triggerAmount": "50",
     "userVarRef": "12",
-    "name": "4_WindRider_Cirrus"
+    "name": "Cirrus!"
   },
   "40": {
     "id": "40",
@@ -477,7 +477,7 @@
     "type": "36",
     "triggerAmount": "1",
     "userVarRef": "13",
-    "name": "5_WindRider_Cloud_Commander"
+    "name": "Cloud Commander!"
   },
   "41": {
     "id": "41",
@@ -489,7 +489,7 @@
     "type": "21",
     "triggerAmount": "5",
     "userVarRef": "14",
-    "name": "1_PhantomFighter_Fighter"
+    "name": "Fighter!"
   },
   "42": {
     "id": "42",
@@ -501,7 +501,7 @@
     "type": "21",
     "triggerAmount": "10",
     "userVarRef": "14",
-    "name": "2_PhantomFighter_Hunter"
+    "name": "Hunter!"
   },
   "43": {
     "id": "43",
@@ -513,7 +513,7 @@
     "type": "21",
     "triggerAmount": "25",
     "userVarRef": "14",
-    "name": "3_PhantomFighter_Exterminator"
+    "name": "Exterminator!"
   },
   "44": {
     "id": "44",
@@ -525,7 +525,7 @@
     "type": "21",
     "triggerAmount": "50",
     "userVarRef": "14",
-    "name": "4_PhantomFighter_Eradicator"
+    "name": "Eradicator!"
   },
   "45": {
     "id": "45",
@@ -537,7 +537,7 @@
     "type": "21",
     "triggerAmount": "11",
     "userVarRef": "15",
-    "name": "5_PhantomFighter_Phantom_Warrior"
+    "name": "Phantom Warrior!"
   },
   "46": {
     "id": "46",
@@ -549,7 +549,7 @@
     "type": "11",
     "triggerAmount": "10",
     "userVarRef": "16",
-    "name": "1_GemBall_Play_Ball"
+    "name": "Play Ball!"
   },
   "47": {
     "id": "47",
@@ -561,7 +561,7 @@
     "type": "11",
     "triggerAmount": "20",
     "userVarRef": "16",
-    "name": "2_GemBall_On_The_Ball"
+    "name": "On The Ball!"
   },
   "48": {
     "id": "48",
@@ -573,7 +573,7 @@
     "type": "11",
     "triggerAmount": "35",
     "userVarRef": "16",
-    "name": "3_GemBall_Having_A_Ball"
+    "name": "Having A Ball!"
   },
   "49": {
     "id": "49",
@@ -585,7 +585,7 @@
     "type": "11",
     "triggerAmount": "50",
     "userVarRef": "16",
-    "name": "4_GemBall_Great_Balls_Of_Fire"
+    "name": "Great Balls Of Fire!"
   },
   "50": {
     "id": "50",
@@ -597,7 +597,7 @@
     "type": "11",
     "triggerAmount": "1",
     "userVarRef": "17",
-    "name": "5_GemBall_Jackpot"
+    "name": "Jackpot!"
   },
   "51": {
     "id": "51",
@@ -609,7 +609,7 @@
     "type": "27",
     "triggerAmount": "5",
     "userVarRef": "18",
-    "name": "1_SpiderZapper_Pea_Shooter"
+    "name": "Pea Shooter!"
   },
   "52": {
     "id": "52",
@@ -621,7 +621,7 @@
     "type": "27",
     "triggerAmount": "10",
     "userVarRef": "18",
-    "name": "2_SpiderZapper_Crack_Shot"
+    "name": "Crack_Shot!"
   },
   "53": {
     "id": "53",
@@ -633,7 +633,7 @@
     "type": "27",
     "triggerAmount": "25",
     "userVarRef": "18",
-    "name": "3_SpiderZapper_Sharpshooter"
+    "name": "Sharpshooter!"
   },
   "54": {
     "id": "54",
@@ -645,7 +645,7 @@
     "type": "27",
     "triggerAmount": "50",
     "userVarRef": "18",
-    "name": "4_SpiderZapper_Deadeye"
+    "name": "Deadeye!"
   },
   "55": {
     "id": "55",
@@ -657,7 +657,7 @@
     "type": "27",
     "triggerAmount": "40",
     "userVarRef": "19",
-    "name": "5_SpiderZapper_Spider_King"
+    "name": "Spider King!"
   },
   "56": {
     "id": "56",
@@ -669,7 +669,7 @@
     "type": "17",
     "triggerAmount": "10",
     "userVarRef": "20",
-    "name": "1_LongShot_Far"
+    "name": "Far!"
   },
   "57": {
     "id": "57",
@@ -681,7 +681,7 @@
     "type": "17",
     "triggerAmount": "20",
     "userVarRef": "20",
-    "name": "2_LongShot_Farther"
+    "name": "Farther!"
   },
   "58": {
     "id": "58",
@@ -693,7 +693,7 @@
     "type": "17",
     "triggerAmount": "35",
     "userVarRef": "20",
-    "name": "3_LongShot_Farthest"
+    "name": "Farthest!"
   },
   "59": {
     "id": "59",
@@ -705,7 +705,7 @@
     "type": "17",
     "triggerAmount": "50",
     "userVarRef": "20",
-    "name": "4_LongShot_Fartherest"
+    "name": "Fartherest!"
   },
   "60": {
     "id": "60",
@@ -717,7 +717,7 @@
     "type": "17",
     "triggerAmount": "10000",
     "userVarRef": "21",
-    "name": "5_LongShot_10000_Plus"
+    "name": "10,000 Plus!"
   },
   "61": {
     "id": "61",
@@ -729,7 +729,7 @@
     "type": "17",
     "triggerAmount": "20000",
     "userVarRef": "21",
-    "name": "6_LongShot_20000_Plus"
+    "name": "20,000 Plus!"
   },
   "62": {
     "id": "62",
@@ -741,7 +741,7 @@
     "type": "24",
     "triggerAmount": "5",
     "userVarRef": "22",
-    "name": "1_RiverRace_Petty_Officer"
+    "name": "Petty Officer!"
   },
   "63": {
     "id": "63",
@@ -753,7 +753,7 @@
     "type": "24",
     "triggerAmount": "10",
     "userVarRef": "22",
-    "name": "2_RiverRace_Lieutenant"
+    "name": "Lieutenant!"
   },
   "64": {
     "id": "64",
@@ -765,7 +765,7 @@
     "type": "24",
     "triggerAmount": "25",
     "userVarRef": "22",
-    "name": "3_RiverRace_Captain"
+    "name": "Captain!"
   },
   "65": {
     "id": "65",
@@ -777,7 +777,7 @@
     "type": "24",
     "triggerAmount": "50",
     "userVarRef": "22",
-    "name": "4_RiverRace_Admiral"
+    "name": "Admiral!"
   },
   "66": {
     "id": "66",
@@ -789,7 +789,7 @@
     "type": "24",
     "triggerAmount": "5",
     "userVarRef": "23",
-    "name": "5_RiverRace_Speed_Boat"
+    "name": "Speed Boat!"
   },
   "67": {
     "id": "67",
@@ -801,7 +801,7 @@
     "type": "35",
     "triggerAmount": "5",
     "userVarRef": "24",
-    "name": "1_Twister_Breeze"
+    "name": "Breeze!"
   },
   "68": {
     "id": "68",
@@ -813,7 +813,7 @@
     "type": "35",
     "triggerAmount": "10",
     "userVarRef": "24",
-    "name": "2_Twister_Wind"
+    "name": "Wind!"
   },
   "69": {
     "id": "69",
@@ -825,7 +825,7 @@
     "type": "35",
     "triggerAmount": "25",
     "userVarRef": "24",
-    "name": "3_Twister_Gale"
+    "name": "Gale!"
   },
   "70": {
     "id": "70",
@@ -837,7 +837,7 @@
     "type": "35",
     "triggerAmount": "50",
     "userVarRef": "24",
-    "name": "4_Twister_Storm"
+    "name": "Storm!"
   },
   "71": {
     "id": "71",
@@ -849,7 +849,7 @@
     "type": "35",
     "triggerAmount": "30000",
     "userVarRef": "25",
-    "name": "5_Twister_Twister_Top_Dog"
+    "name": "Twister Top Dog!"
   },
   "72": {
     "id": "72",
@@ -861,7 +861,7 @@
     "type": "26",
     "triggerAmount": "5",
     "userVarRef": "26",
-    "name": "1_SkyHigh_Bouncer"
+    "name": "Bouncer!"
   },
   "73": {
     "id": "73",
@@ -873,7 +873,7 @@
     "type": "26",
     "triggerAmount": "15",
     "userVarRef": "26",
-    "name": "2_SkyHigh_Hopper"
+    "name": "Hopper!"
   },
   "74": {
     "id": "74",
@@ -885,7 +885,7 @@
     "type": "26",
     "triggerAmount": "30",
     "userVarRef": "26",
-    "name": "3_SkyHigh_Jumper"
+    "name": "Jumper!"
   },
   "75": {
     "id": "75",
@@ -897,7 +897,7 @@
     "type": "26",
     "triggerAmount": "50",
     "userVarRef": "26",
-    "name": "4_SkyHigh_Vaulter"
+    "name": "Vaulter!"
   },
   "76": {
     "id": "76",
@@ -909,7 +909,7 @@
     "type": "26",
     "triggerAmount": "1",
     "userVarRef": "27",
-    "name": "5_SkyHigh_Treasure_Chest"
+    "name": "Treasure Chest!"
   },
   "77": {
     "id": "77",
@@ -921,7 +921,7 @@
     "type": "24",
     "triggerAmount": "50",
     "userVarRef": "36",
-    "name": "X_Game_Casual_Gamer"
+    "name": "Casual Gamer!"
   },
   "78": {
     "id": "78",
@@ -933,7 +933,7 @@
     "type": "24",
     "triggerAmount": "100",
     "userVarRef": "36",
-    "name": "X_Game_Pro_Gamer"
+    "name": "Pro Gamer!"
   },
   "79": {
     "id": "79",
@@ -945,7 +945,7 @@
     "type": "24",
     "triggerAmount": "250",
     "userVarRef": "36",
-    "name": "X_Game_Frigid_Gamer"
+    "name": "Frigid Gamer!"
   },
   "80": {
     "id": "80",
@@ -957,7 +957,7 @@
     "type": "4",
     "triggerAmount": "25",
     "userVarRef": "86",
-    "name": "1_BuddyGames_Bronze_Gamer"
+    "name": "Bronze Gamer!"
   },
   "81": {
     "id": "81",
@@ -969,7 +969,7 @@
     "type": "4",
     "triggerAmount": "50",
     "userVarRef": "86",
-    "name": "2_BuddyGames_Silver_Gamer"
+    "name": "Silver Gamer!"
   },
   "82": {
     "id": "82",
@@ -981,7 +981,7 @@
     "type": "4",
     "triggerAmount": "100",
     "userVarRef": "86",
-    "name": "3_BuddyGames_Gold_Gamer"
+    "name": "Gold Gamer!"
   },
   "83": {
     "id": "83",
@@ -993,7 +993,7 @@
     "type": "4",
     "triggerAmount": "250",
     "userVarRef": "86",
-    "name": "4_BuddyGames_Platinum_Gamer"
+    "name": "Platinum Gamer!"
   },
   "84": {
     "id": "84",
@@ -1005,7 +1005,7 @@
     "type": "15",
     "triggerAmount": "1",
     "userVarRef": "38",
-    "name": "1_JaG_Pen_Pal"
+    "name": "Pen Pal!"
   },
   "85": {
     "id": "85",
@@ -1017,7 +1017,7 @@
     "type": "15",
     "triggerAmount": "1",
     "userVarRef": "39",
-    "name": "2_JaG_1_Gift_Sent"
+    "name": "1 Gift Sent!"
   },
   "86": {
     "id": "86",
@@ -1029,7 +1029,7 @@
     "type": "15",
     "triggerAmount": "10",
     "userVarRef": "39",
-    "name": "3_JaG_10_Gifts_Sent"
+    "name": "10 Gifts Sent!"
   },
   "87": {
     "id": "87",
@@ -1041,7 +1041,7 @@
     "type": "15",
     "triggerAmount": "25",
     "userVarRef": "39",
-    "name": "4_JaG_25_Gifts_Sent"
+    "name": "25 Gifts Sent!"
   },
   "88": {
     "id": "88",
@@ -1053,7 +1053,7 @@
     "type": "15",
     "triggerAmount": "50",
     "userVarRef": "39",
-    "name": "5_JaG_50_Gifts_Sent"
+    "name": "50 Gifts Sent!"
   },
   "89": {
     "id": "89",
@@ -1065,7 +1065,7 @@
     "type": "15",
     "triggerAmount": "100",
     "userVarRef": "39",
-    "name": "6_JaG_100_Gifts_Sent"
+    "name": "100 Gifts Sent!"
   },
   "90": {
     "id": "90",
@@ -1077,7 +1077,7 @@
     "type": "0",
     "triggerAmount": "1",
     "userVarRef": "40",
-    "name": "2_BuddyList_Buddy_Added"
+    "name": "Buddy Added!"
   },
   "91": {
     "id": "91",
@@ -1089,7 +1089,7 @@
     "type": "24",
     "triggerAmount": "5",
     "userVarRef": "41",
-    "name": "X_Fact_Finder"
+    "name": "Fact Finder!"
   },
   "92": {
     "id": "92",
@@ -1101,7 +1101,7 @@
     "type": "24",
     "triggerAmount": "20",
     "userVarRef": "41",
-    "name": "X_Bookworm"
+    "name": "Bookworm!"
   },
   "93": {
     "id": "93",
@@ -1113,7 +1113,7 @@
     "type": "24",
     "triggerAmount": "50",
     "userVarRef": "41",
-    "name": "X_Know_It_All"
+    "name": "Know It All!"
   },
   "94": {
     "id": "94",
@@ -1125,7 +1125,7 @@
     "type": "24",
     "triggerAmount": "100",
     "userVarRef": "41",
-    "name": "X_Ultimate_Explorer"
+    "name": "Ultimate Explorer!"
   },
   "95": {
     "id": "95",
@@ -1137,7 +1137,7 @@
     "type": "24",
     "triggerAmount": "1",
     "userVarRef": "44",
-    "name": "X_SocialTrigger_Dance_Commander"
+    "name": "Dance Commander!"
   },
   "96": {
     "id": "96",
@@ -1149,7 +1149,7 @@
     "type": "24",
     "triggerAmount": "1",
     "userVarRef": "45",
-    "name": "X_SocialTrigger_Fire_Starter"
+    "name": "Fire Starter!"
   },
   "97": {
     "id": "97",
@@ -1161,7 +1161,7 @@
     "type": "24",
     "triggerAmount": "1",
     "userVarRef": "46",
-    "name": "X_SocialTrigger_Falling_Rocks"
+    "name": "Falling Rocks!"
   },
   "98": {
     "id": "98",
@@ -1173,7 +1173,7 @@
     "type": "24",
     "triggerAmount": "1",
     "userVarRef": "47",
-    "name": "X_SocialTrigger_Phantom_Dream"
+    "name": "Phantom Dream!"
   },
   "99": {
     "id": "99",
@@ -1185,7 +1185,7 @@
     "type": "24",
     "triggerAmount": "1",
     "userVarRef": "48",
-    "name": "X_Can_You_Keep_A_Secret"
+    "name": "Can You Keep A Secret?"
   },
   "100": {
     "id": "100",
@@ -1197,7 +1197,7 @@
     "type": "24",
     "triggerAmount": "5",
     "userVarRef": "50",
-    "name": "X_***REUSE_ME***"
+    "name": "5 Hour Jammer!"
   },
   "101": {
     "id": "101",
@@ -1209,7 +1209,7 @@
     "type": "24",
     "triggerAmount": "10",
     "userVarRef": "50",
-    "name": "X_***REUSE_ME***"
+    "name": "10 Hour Jammer!"
   },
   "102": {
     "id": "102",
@@ -1221,7 +1221,7 @@
     "type": "24",
     "triggerAmount": "20",
     "userVarRef": "50",
-    "name": "X_***REUSE_ME***"
+    "name": "20 Hour Jammer!"
   },
   "103": {
     "id": "103",
@@ -1233,7 +1233,7 @@
     "type": "24",
     "triggerAmount": "50",
     "userVarRef": "50",
-    "name": "X_***REUSE_ME***"
+    "name": "50 Hour Jammer!"
   },
   "104": {
     "id": "104",
@@ -1245,7 +1245,7 @@
     "type": "24",
     "triggerAmount": "100",
     "userVarRef": "50",
-    "name": "X_***REUSE_ME***"
+    "name": "100 Hour Jammer!"
   },
   "105": {
     "id": "105",
@@ -1257,7 +1257,7 @@
     "type": "24",
     "triggerAmount": "2",
     "userVarRef": "51",
-    "name": "X_Second_Animal"
+    "name": "Second Animal!"
   },
   "106": {
     "id": "106",
@@ -1269,7 +1269,7 @@
     "type": "24",
     "triggerAmount": "6",
     "userVarRef": "51",
-    "name": "X_Beastmaster"
+    "name": "Beastmaster!"
   },
   "107": {
     "id": "107",
@@ -1281,7 +1281,7 @@
     "type": "24",
     "triggerAmount": "5",
     "userVarRef": "52",
-    "name": "X_Production_Assistant"
+    "name": "Production Assistant!"
   },
   "108": {
     "id": "108",
@@ -1293,7 +1293,7 @@
     "type": "24",
     "triggerAmount": "10",
     "userVarRef": "52",
-    "name": "X_Key_Grip"
+    "name": "Key Grip!"
   },
   "109": {
     "id": "109",
@@ -1305,7 +1305,7 @@
     "type": "24",
     "triggerAmount": "25",
     "userVarRef": "52",
-    "name": "X_Cinematographer"
+    "name": "Cinematographer!"
   },
   "110": {
     "id": "110",
@@ -1317,7 +1317,7 @@
     "type": "24",
     "triggerAmount": "50",
     "userVarRef": "52",
-    "name": "X_Director"
+    "name": "Director!"
   },
   "111": {
     "id": "111",
@@ -1329,7 +1329,7 @@
     "type": "24",
     "triggerAmount": "100",
     "userVarRef": "52",
-    "name": "X_Executive_Producer"
+    "name": "Executive Producer!"
   },
   "112": {
     "id": "112",
@@ -1341,7 +1341,7 @@
     "type": "24",
     "triggerAmount": "1",
     "userVarRef": "53",
-    "name": "X_First_Quest"
+    "name": "First Quest!"
   },
   "113": {
     "id": "113",
@@ -1353,7 +1353,7 @@
     "type": "24",
     "triggerAmount": "10",
     "userVarRef": "53",
-    "name": "X_10_Quests"
+    "name": "10 Quests!"
   },
   "114": {
     "id": "114",
@@ -1365,7 +1365,7 @@
     "type": "24",
     "triggerAmount": "25",
     "userVarRef": "53",
-    "name": "X_25_Quests"
+    "name": "25 Quests!"
   },
   "115": {
     "id": "115",
@@ -1377,7 +1377,7 @@
     "type": "24",
     "triggerAmount": "50",
     "userVarRef": "53",
-    "name": "X_50_Quests"
+    "name": "50 Quests!"
   },
   "116": {
     "id": "116",
@@ -1389,7 +1389,7 @@
     "type": "24",
     "triggerAmount": "100",
     "userVarRef": "53",
-    "name": "X_100_Quests"
+    "name": "100 Quests!"
   },
   "117": {
     "id": "117",
@@ -1401,7 +1401,7 @@
     "type": "24",
     "triggerAmount": "1",
     "userVarRef": "54",
-    "name": "X_Epic_Quest"
+    "name": "Epic Quest!"
   },
   "118": {
     "id": "118",
@@ -1413,7 +1413,7 @@
     "type": "24",
     "triggerAmount": "5",
     "userVarRef": "54",
-    "name": "X_Questmaster_5"
+    "name": "Questmaster 5!"
   },
   "119": {
     "id": "119",
@@ -1425,7 +1425,7 @@
     "type": "24",
     "triggerAmount": "10",
     "userVarRef": "54",
-    "name": "X_Questmaster_10"
+    "name": "Questmaster 10!"
   },
   "120": {
     "id": "120",
@@ -1437,7 +1437,7 @@
     "type": "24",
     "triggerAmount": "5",
     "userVarRef": "55",
-    "name": "X_***REUSE_ME***"
+    "name": "World Traveler!"
   },
   "121": {
     "id": "121",
@@ -1449,7 +1449,7 @@
     "type": "24",
     "triggerAmount": "1",
     "userVarRef": "56",
-    "name": "X_***REUSE_ME***"
+    "name": "Mapper!"
   },
   "122": {
     "id": "122",
@@ -1461,7 +1461,7 @@
     "type": "24",
     "triggerAmount": "10",
     "userVarRef": "57",
-    "name": "X_***REUSE_ME***"
+    "name": "10 Base Visits - Rabbit!"
   },
   "123": {
     "id": "123",
@@ -1473,7 +1473,7 @@
     "type": "24",
     "triggerAmount": "10",
     "userVarRef": "58",
-    "name": "X_***REUSE_ME***"
+    "name": "10 Base Visits - Wolf!"
   },
   "124": {
     "id": "124",
@@ -1485,7 +1485,7 @@
     "type": "24",
     "triggerAmount": "10",
     "userVarRef": "59",
-    "name": "X_***REUSE_ME***"
+    "name": "10 Base Visits - Tiger!"
   },
   "125": {
     "id": "125",
@@ -1497,7 +1497,7 @@
     "type": "24",
     "triggerAmount": "10",
     "userVarRef": "60",
-    "name": "X_***REUSE_ME***"
+    "name": "10 Base Visits - Koala!"
   },
   "126": {
     "id": "126",
@@ -1509,7 +1509,7 @@
     "type": "24",
     "triggerAmount": "10",
     "userVarRef": "61",
-    "name": "X_***REUSE_ME***"
+    "name": "10 Base Visits - Panda!"
   },
   "127": {
     "id": "127",
@@ -1521,7 +1521,7 @@
     "type": "24",
     "triggerAmount": "10",
     "userVarRef": "62",
-    "name": "X_***REUSE_ME***"
+    "name": "10 Base Visits - Monkey!"
   },
   "128": {
     "id": "128",
@@ -1533,7 +1533,7 @@
     "type": "24",
     "triggerAmount": "50",
     "userVarRef": "64",
-    "name": "X_***REUSE_ME***"
+    "name": "Den Design 50!"
   },
   "129": {
     "id": "129",
@@ -1545,7 +1545,7 @@
     "type": "24",
     "triggerAmount": "100",
     "userVarRef": "64",
-    "name": "X_***REUSE_ME***"
+    "name": "Den Design 100!"
   },
   "130": {
     "id": "130",
@@ -1557,7 +1557,7 @@
     "type": "24",
     "triggerAmount": "200",
     "userVarRef": "64",
-    "name": "X_***REUSE_ME***"
+    "name": "Den Design 200!"
   },
   "131": {
     "id": "131",
@@ -1569,7 +1569,7 @@
     "type": "24",
     "triggerAmount": "350",
     "userVarRef": "64",
-    "name": "X_***REUSE_ME***"
+    "name": "Den Design 350!"
   },
   "132": {
     "id": "132",
@@ -1581,7 +1581,7 @@
     "type": "24",
     "triggerAmount": "500",
     "userVarRef": "64",
-    "name": "X_***REUSE_ME***"
+    "name": "Den Design 500!"
   },
   "133": {
     "id": "133",
@@ -1593,7 +1593,7 @@
     "type": "24",
     "triggerAmount": "1",
     "userVarRef": "65",
-    "name": "X_***REUSE_ME***"
+    "name": "Perfect Host!"
   },
   "134": {
     "id": "134",
@@ -1605,7 +1605,7 @@
     "type": "0",
     "triggerAmount": "1",
     "userVarRef": "66",
-    "name": "5_Membership_Welcome_To_The_Club"
+    "name": "Welcome To The Club!"
   },
   "135": {
     "id": "135",
@@ -1617,7 +1617,7 @@
     "type": "24",
     "triggerAmount": "1",
     "userVarRef": "67",
-    "name": "X_1_Month_Member"
+    "name": "1 Month Member!"
   },
   "136": {
     "id": "136",
@@ -1629,7 +1629,7 @@
     "type": "24",
     "triggerAmount": "3",
     "userVarRef": "67",
-    "name": "X_3_Month_Member"
+    "name": "3 Month Member!"
   },
   "137": {
     "id": "137",
@@ -1641,7 +1641,7 @@
     "type": "24",
     "triggerAmount": "6",
     "userVarRef": "67",
-    "name": "X_6_Month_Member"
+    "name": "6 Month Member!"
   },
   "138": {
     "id": "138",
@@ -1653,7 +1653,7 @@
     "type": "24",
     "triggerAmount": "9",
     "userVarRef": "67",
-    "name": "X_9_Month_Member"
+    "name": "9 Month Member!"
   },
   "139": {
     "id": "139",
@@ -1665,7 +1665,7 @@
     "type": "24",
     "triggerAmount": "12",
     "userVarRef": "67",
-    "name": "X_Member_1_Year"
+    "name": "Member - 1 Year!"
   },
   "140": {
     "id": "140",
@@ -1677,7 +1677,7 @@
     "type": "18",
     "triggerAmount": "1",
     "userVarRef": "76",
-    "name": "5_MiraSays_Mira_Says"
+    "name": "Mira Says!"
   },
   "142": {
     "id": "142",
@@ -1689,7 +1689,7 @@
     "type": "18",
     "triggerAmount": "5",
     "userVarRef": "77",
-    "name": "1_MiraSays_Mime"
+    "name": "Mime!"
   },
   "143": {
     "id": "143",
@@ -1701,7 +1701,7 @@
     "type": "18",
     "triggerAmount": "10",
     "userVarRef": "77",
-    "name": "2_MiraSays_Imitator"
+    "name": "Imitator!"
   },
   "144": {
     "id": "144",
@@ -1713,7 +1713,7 @@
     "type": "18",
     "triggerAmount": "25",
     "userVarRef": "77",
-    "name": "3_MiraSays_Mimicker"
+    "name": "Mimicker!"
   },
   "145": {
     "id": "145",
@@ -1725,7 +1725,7 @@
     "type": "18",
     "triggerAmount": "50",
     "userVarRef": "77",
-    "name": "4_MiraSays_Copycat"
+    "name": "Copycat!"
   },
   "146": {
     "id": "146",
@@ -1737,7 +1737,7 @@
     "type": "0",
     "triggerAmount": "1",
     "userVarRef": "78",
-    "name": "3_Tutorial_Color_Me_Rad"
+    "name": "Color Me Rad!"
   },
   "147": {
     "id": "147",
@@ -1749,7 +1749,7 @@
     "type": "21",
     "triggerAmount": "3",
     "userVarRef": "85",
-    "name": "7_PhantomFighter_Untouchable"
+    "name": "Untouchable!"
   },
   "148": {
     "id": "148",
@@ -1761,7 +1761,7 @@
     "type": "21",
     "triggerAmount": "1",
     "userVarRef": "84",
-    "name": "6_PhantomFighter_Superpower"
+    "name": "Superpower!"
   },
   "149": {
     "id": "149",
@@ -1773,7 +1773,7 @@
     "type": "19",
     "triggerAmount": "300",
     "userVarRef": "80",
-    "name": "7_Overflow_300"
+    "name": "300!"
   },
   "150": {
     "id": "150",
@@ -1785,7 +1785,7 @@
     "type": "11",
     "triggerAmount": "2",
     "userVarRef": "17",
-    "name": "6_GemBall_Double_Jackpot"
+    "name": "Double Jackpot!"
   },
   "151": {
     "id": "151",
@@ -1797,7 +1797,7 @@
     "type": "36",
     "triggerAmount": "10",
     "userVarRef": "79",
-    "name": "6_WindRider_Team_Rider"
+    "name": "Team Rider!"
   },
   "152": {
     "id": "152",
@@ -1809,7 +1809,7 @@
     "type": "27",
     "triggerAmount": "50",
     "userVarRef": "82",
-    "name": "6_SpiderZapper_Team_Zapper"
+    "name": "Team Zapper!"
   },
   "153": {
     "id": "153",
@@ -1821,7 +1821,7 @@
     "type": "6",
     "triggerAmount": "1",
     "userVarRef": "83",
-    "name": "6_DoubleUp_Perfectionist"
+    "name": "Perfectionist!"
   },
   "154": {
     "id": "154",
@@ -1833,7 +1833,7 @@
     "type": "35",
     "triggerAmount": "18",
     "userVarRef": "81",
-    "name": "6_Twister_Ring_King"
+    "name": "Ring King!"
   },
   "155": {
     "id": "155",
@@ -1845,7 +1845,7 @@
     "type": "4",
     "triggerAmount": "25",
     "userVarRef": "86",
-    "name": "8_BuddyGames_Friendly_Gamer"
+    "name": "Friendly Gamer!"
   },
   "156": {
     "id": "156",
@@ -1857,7 +1857,7 @@
     "type": "4",
     "triggerAmount": "50",
     "userVarRef": "86",
-    "name": "9_BuddyGames_Friendlier_Gamer"
+    "name": "Friendlier Gamer!"
   },
   "157": {
     "id": "157",
@@ -1869,7 +1869,7 @@
     "type": "4",
     "triggerAmount": "100",
     "userVarRef": "86",
-    "name": "10_BuddyGames_Friendliest_Gamer"
+    "name": "Friendliest Gamer!"
   },
   "158": {
     "id": "158",
@@ -1881,7 +1881,7 @@
     "type": "4",
     "triggerAmount": "10",
     "userVarRef": "87",
-    "name": "5_BuddyGames_Winner"
+    "name": "Winner!"
   },
   "159": {
     "id": "159",
@@ -1893,7 +1893,7 @@
     "type": "4",
     "triggerAmount": "25",
     "userVarRef": "87",
-    "name": "6_BuddyGames_Victor"
+    "name": "Victor!"
   },
   "160": {
     "id": "160",
@@ -1905,7 +1905,7 @@
     "type": "4",
     "triggerAmount": "50",
     "userVarRef": "87",
-    "name": "7_BuddyGames_Champion"
+    "name": "Champion!"
   },
   "161": {
     "id": "161",
@@ -1917,7 +1917,7 @@
     "type": "12",
     "triggerAmount": "10",
     "userVarRef": "91",
-    "name": "1_GemBreaker_Breaker"
+    "name": "Breaker!"
   },
   "162": {
     "id": "162",
@@ -1929,7 +1929,7 @@
     "type": "12",
     "triggerAmount": "20",
     "userVarRef": "91",
-    "name": "2_GemBreaker_Buster"
+    "name": "Buster!"
   },
   "163": {
     "id": "163",
@@ -1941,7 +1941,7 @@
     "type": "12",
     "triggerAmount": "35",
     "userVarRef": "91",
-    "name": "3_GemBreaker_Crasher"
+    "name": "Crasher!"
   },
   "164": {
     "id": "164",
@@ -1953,7 +1953,7 @@
     "type": "12",
     "triggerAmount": "50",
     "userVarRef": "91",
-    "name": "4_GemBreaker_Smasher"
+    "name": "Smasher!"
   },
   "165": {
     "id": "165",
@@ -1965,7 +1965,7 @@
     "type": "12",
     "triggerAmount": "10",
     "userVarRef": "92",
-    "name": "6_GemBreaker_Gem_Guru"
+    "name": "Gem Guru!"
   },
   "166": {
     "id": "166",
@@ -1977,7 +1977,7 @@
     "type": "12",
     "triggerAmount": "20",
     "userVarRef": "93",
-    "name": "5_GemBreaker_Gem_Ace"
+    "name": "Gem Ace!"
   },
   "167": {
     "id": "167",
@@ -1989,7 +1989,7 @@
     "type": "24",
     "triggerAmount": "1",
     "userVarRef": "94",
-    "name": "X_SocialTrigger_Thin_Ice!"
+    "name": "Thin Ice!"
   },
   "168": {
     "id": "168",
@@ -2001,7 +2001,7 @@
     "type": "0",
     "triggerAmount": "25",
     "userVarRef": "95",
-    "name": "4_HotCocoa_Yummy Cocoa"
+    "name": "Yummy Cocoa!"
   },
   "169": {
     "id": "169",
@@ -2013,7 +2013,7 @@
     "type": "24",
     "triggerAmount": "55555",
     "userVarRef": "97",
-    "name": "X_***REUSE_ME***"
+    "name": "Double Slide!"
   },
   "170": {
     "id": "170",
@@ -2025,7 +2025,7 @@
     "type": "0",
     "triggerAmount": "50",
     "userVarRef": "96",
-    "name": "10_Slide_Whee"
+    "name": "Whee!"
   },
   "171": {
     "id": "171",
@@ -2037,7 +2037,7 @@
     "type": "31",
     "triggerAmount": "5",
     "userVarRef": "31",
-    "name": "1_SuperSort_Reduce"
+    "name": "Reduce!"
   },
   "172": {
     "id": "172",
@@ -2049,7 +2049,7 @@
     "type": "31",
     "triggerAmount": "10",
     "userVarRef": "31",
-    "name": "2_SuperSort_Reuse"
+    "name": "Reuse!"
   },
   "173": {
     "id": "173",
@@ -2061,7 +2061,7 @@
     "type": "31",
     "triggerAmount": "25",
     "userVarRef": "31",
-    "name": "3_SuperSort_Recycle"
+    "name": "Recycle!"
   },
   "174": {
     "id": "174",
@@ -2073,7 +2073,7 @@
     "type": "31",
     "triggerAmount": "50",
     "userVarRef": "31",
-    "name": "4_SuperSort_Sir_Sortsalot"
+    "name": "Sir Sortsalot!"
   },
   "175": {
     "id": "175",
@@ -2085,7 +2085,7 @@
     "type": "31",
     "triggerAmount": "20",
     "userVarRef": "32",
-    "name": "5_SuperSort_Go_Green"
+    "name": "Go Green!"
   },
   "176": {
     "id": "176",
@@ -2097,7 +2097,7 @@
     "type": "31",
     "triggerAmount": "200",
     "userVarRef": "37",
-    "name": "6_SuperSort_Super_Sorter"
+    "name": "Super Sorter!"
   },
   "177": {
     "id": "177",
@@ -2109,7 +2109,7 @@
     "type": "0",
     "triggerAmount": "15",
     "userVarRef": "113",
-    "name": "9_Polls_Answer the Call"
+    "name": "Answer the Call!"
   },
   "178": {
     "id": "178",
@@ -2121,7 +2121,7 @@
     "type": "0",
     "triggerAmount": "1",
     "userVarRef": "115",
-    "name": "1_Brady_Chemist"
+    "name": "Chemist!"
   },
   "179": {
     "id": "179",
@@ -2133,7 +2133,7 @@
     "type": "20",
     "triggerAmount": "10",
     "userVarRef": "130",
-    "name": "1_PestControl_Squash"
+    "name": "Squash!"
   },
   "180": {
     "id": "180",
@@ -2145,7 +2145,7 @@
     "type": "20",
     "triggerAmount": "20",
     "userVarRef": "130",
-    "name": "2_PestControl_Smash"
+    "name": "Smash!"
   },
   "181": {
     "id": "181",
@@ -2157,7 +2157,7 @@
     "type": "20",
     "triggerAmount": "35",
     "userVarRef": "130",
-    "name": "3_PestControl_Squish"
+    "name": "Squish!"
   },
   "182": {
     "id": "182",
@@ -2169,7 +2169,7 @@
     "type": "20",
     "triggerAmount": "50",
     "userVarRef": "130",
-    "name": "4_PestControl_Splat"
+    "name": "Splat!"
   },
   "183": {
     "id": "183",
@@ -2181,7 +2181,7 @@
     "type": "20",
     "triggerAmount": "50",
     "userVarRef": "131",
-    "name": "5_PestControl_400_Legs"
+    "name": "400 Legs!"
   },
   "184": {
     "id": "184",
@@ -2193,7 +2193,7 @@
     "type": "20",
     "triggerAmount": "10000",
     "userVarRef": "132",
-    "name": "6_PestControl_10000_Pests"
+    "name": "10,000 Pests!"
   },
   "185": {
     "id": "185",
@@ -2205,7 +2205,7 @@
     "type": "10",
     "triggerAmount": "10",
     "userVarRef": "143",
-    "name": "1_FruitSlinger_Fruit_Salad"
+    "name": "Fruit Salad!"
   },
   "186": {
     "id": "186",
@@ -2217,7 +2217,7 @@
     "type": "10",
     "triggerAmount": "20",
     "userVarRef": "143",
-    "name": "2_FruitSlinger_Fruit_Cake"
+    "name": "Fruit Cake!"
   },
   "187": {
     "id": "187",
@@ -2229,7 +2229,7 @@
     "type": "10",
     "triggerAmount": "35",
     "userVarRef": "143",
-    "name": "3_FruitSlinger_Fruit_Juice"
+    "name": "Fruit Juice!"
   },
   "188": {
     "id": "188",
@@ -2241,7 +2241,7 @@
     "type": "10",
     "triggerAmount": "50",
     "userVarRef": "143",
-    "name": "4_FruitSlinger_Fruit_Basket"
+    "name": "Fruit Basket!"
   },
   "189": {
     "id": "189",
@@ -2253,7 +2253,7 @@
     "type": "10",
     "triggerAmount": "25",
     "userVarRef": "144",
-    "name": "9_FruitSlinger_Ripe"
+    "name": "Ripe!"
   },
   "190": {
     "id": "190",
@@ -2265,7 +2265,7 @@
     "type": "10",
     "triggerAmount": "1",
     "userVarRef": "145",
-    "name": "8_FruitSlinger_Kaboom"
+    "name": "Kaboom!"
   },
   "191": {
     "id": "191",
@@ -2277,7 +2277,7 @@
     "type": "10",
     "triggerAmount": "11",
     "userVarRef": "159",
-    "name": "5_FruitSlinger_Peachy_Keen"
+    "name": "Peachy Keen!"
   },
   "192": {
     "id": "192",
@@ -2289,7 +2289,7 @@
     "type": "10",
     "triggerAmount": "51",
     "userVarRef": "159",
-    "name": "6_FruitSlinger_Top_Banana"
+    "name": "Top Banana!"
   },
   "193": {
     "id": "193",
@@ -2301,7 +2301,7 @@
     "type": "10",
     "triggerAmount": "300",
     "userVarRef": "160",
-    "name": "7_FruitSlinger_Fruit_of_the_Doom"
+    "name": "Fruit Of The Doom!"
   },
   "194": {
     "id": "194",
@@ -2313,7 +2313,7 @@
     "type": "0",
     "triggerAmount": "1",
     "userVarRef": "212",
-    "name": "6_Pets_First_Pet"
+    "name": "First Pet!"
   },
   "195": {
     "id": "195",
@@ -2325,7 +2325,7 @@
     "type": "0",
     "triggerAmount": "1",
     "userVarRef": "213",
-    "name": "8_Pets_One_Of_A_Kind"
+    "name": "One Of A Kind!"
   },
   "196": {
     "id": "196",
@@ -2337,7 +2337,7 @@
     "type": "0",
     "triggerAmount": "4",
     "userVarRef": "212",
-    "name": "7_Pets_Four_Pets"
+    "name": "Fourth Pet!"
   },
   "197": {
     "id": "197",
@@ -2349,7 +2349,7 @@
     "type": "23",
     "triggerAmount": "5",
     "userVarRef": "277",
-    "name": "1_PillBugs_Bounce"
+    "name": "Bounce!"
   },
   "198": {
     "id": "198",
@@ -2361,7 +2361,7 @@
     "type": "23",
     "triggerAmount": "10",
     "userVarRef": "277",
-    "name": "2_PillBugs_Recoil"
+    "name": "Recoil!"
   },
   "199": {
     "id": "199",
@@ -2373,7 +2373,7 @@
     "type": "23",
     "triggerAmount": "25",
     "userVarRef": "277",
-    "name": "3_PillBugs_Rebound"
+    "name": "Rebound!"
   },
   "200": {
     "id": "200",
@@ -2385,7 +2385,7 @@
     "type": "23",
     "triggerAmount": "50",
     "userVarRef": "277",
-    "name": "4_PillBugs_Ricochet"
+    "name": "Ricochet!"
   },
   "201": {
     "id": "201",
@@ -2397,7 +2397,7 @@
     "type": "23",
     "triggerAmount": "1",
     "userVarRef": "278",
-    "name": "5_PillBugs_Bug_Bomb"
+    "name": "Bug Bomb!"
   },
   "202": {
     "id": "202",
@@ -2409,7 +2409,7 @@
     "type": "23",
     "triggerAmount": "1",
     "userVarRef": "279",
-    "name": "6_PillBugs_Roly_Poly"
+    "name": "Roly Poly!"
   },
   "203": {
     "id": "203",
@@ -2421,7 +2421,7 @@
     "type": "23",
     "triggerAmount": "1",
     "userVarRef": "280",
-    "name": "7_PillBugs_Go_For_The_Gold"
+    "name": "Go For The Gold!"
   },
   "204": {
     "id": "204",
@@ -2433,7 +2433,7 @@
     "type": "22",
     "triggerAmount": "5",
     "userVarRef": "281",
-    "name": "1_PhantomsTreasure_Seek"
+    "name": "Seek!"
   },
   "205": {
     "id": "205",
@@ -2445,7 +2445,7 @@
     "type": "22",
     "triggerAmount": "10",
     "userVarRef": "281",
-    "name": "2_PhantomsTreasure_Scan"
+    "name": "Scan!"
   },
   "206": {
     "id": "206",
@@ -2457,7 +2457,7 @@
     "type": "22",
     "triggerAmount": "25",
     "userVarRef": "281",
-    "name": "3_PhantomsTreasure_Search"
+    "name": "Search!"
   },
   "207": {
     "id": "207",
@@ -2469,7 +2469,7 @@
     "type": "22",
     "triggerAmount": "50",
     "userVarRef": "281",
-    "name": "4_PhantomsTreasure_Discover"
+    "name": "Discover!"
   },
   "208": {
     "id": "208",
@@ -2481,7 +2481,7 @@
     "type": "22",
     "triggerAmount": "500",
     "userVarRef": "282",
-    "name": "6_PhantomsTreasure_Pinpoint"
+    "name": "Pinpoint!"
   },
   "209": {
     "id": "209",
@@ -2493,7 +2493,7 @@
     "type": "22",
     "triggerAmount": "1",
     "userVarRef": "283",
-    "name": "5_PhantomsTreasure_Quick_Find"
+    "name": "Quick Find!"
   },
   "210": {
     "id": "210",
@@ -2505,7 +2505,7 @@
     "type": "8",
     "triggerAmount": "5",
     "userVarRef": "284",
-    "name": "1_EatEmUp_Nibble"
+    "name": "Nibble!"
   },
   "211": {
     "id": "211",
@@ -2517,7 +2517,7 @@
     "type": "8",
     "triggerAmount": "10",
     "userVarRef": "284",
-    "name": "2_EatEmUp_Bite"
+    "name": "Bite!"
   },
   "212": {
     "id": "212",
@@ -2529,7 +2529,7 @@
     "type": "8",
     "triggerAmount": "25",
     "userVarRef": "284",
-    "name": "3_EatEmUp_Chomp"
+    "name": "Chomp!"
   },
   "213": {
     "id": "213",
@@ -2541,7 +2541,7 @@
     "type": "8",
     "triggerAmount": "50",
     "userVarRef": "284",
-    "name": "4_EatEmUp_Gulp"
+    "name": "Gulp!"
   },
   "214": {
     "id": "214",
@@ -2553,7 +2553,7 @@
     "type": "8",
     "triggerAmount": "500",
     "userVarRef": "285",
-    "name": "5_EatEmUp_Om_Nom_Nom"
+    "name": "Om Nom Nom!"
   },
   "215": {
     "id": "215",
@@ -2565,7 +2565,7 @@
     "type": "8",
     "triggerAmount": "5000",
     "userVarRef": "285",
-    "name": "6_EatEmUp_Big_Tuna"
+    "name": "Big Tuna!"
   },
   "216": {
     "id": "216",
@@ -2577,7 +2577,7 @@
     "type": "1",
     "triggerAmount": "5",
     "userVarRef": "292",
-    "name": "1_BestDressed_Seamstress"
+    "name": "Seamstress!"
   },
   "217": {
     "id": "217",
@@ -2589,7 +2589,7 @@
     "type": "1",
     "triggerAmount": "10",
     "userVarRef": "292",
-    "name": "2_BestDressed_Stylist"
+    "name": "Stylist!"
   },
   "218": {
     "id": "218",
@@ -2601,7 +2601,7 @@
     "type": "1",
     "triggerAmount": "25",
     "userVarRef": "292",
-    "name": "3_BestDressed_Designer"
+    "name": "Designer!"
   },
   "219": {
     "id": "219",
@@ -2613,7 +2613,7 @@
     "type": "1",
     "triggerAmount": "50",
     "userVarRef": "292",
-    "name": "4_BestDressed_Model"
+    "name": "Model!"
   },
   "220": {
     "id": "220",
@@ -2625,7 +2625,7 @@
     "type": "1",
     "triggerAmount": "20",
     "userVarRef": "293",
-    "name": "5_BestDressed_HighFashion"
+    "name": "High Fashion!"
   },
   "221": {
     "id": "221",
@@ -2637,7 +2637,7 @@
     "type": "1",
     "triggerAmount": "1",
     "userVarRef": "294",
-    "name": "6_BestDressed_TresChic"
+    "name": "Tres Chic!"
   },
   "222": {
     "id": "222",
@@ -2649,7 +2649,7 @@
     "type": "34",
     "triggerAmount": "6",
     "userVarRef": "310",
-    "name": "1_TouchPool_CritterFinder"
+    "name": "Critter Finder!"
   },
   "223": {
     "id": "223",
@@ -2661,7 +2661,7 @@
     "type": "34",
     "triggerAmount": "30",
     "userVarRef": "310",
-    "name": "5_TouchPool_CreatureSeeker"
+    "name": "Creature Seeker!"
   },
   "224": {
     "id": "224",
@@ -2673,7 +2673,7 @@
     "type": "34",
     "triggerAmount": "10",
     "userVarRef": "309",
-    "name": "4_TouchPool_CatchSomeRays"
+    "name": "Catch Some Rays!"
   },
   "225": {
     "id": "225",
@@ -2685,7 +2685,7 @@
     "type": "34",
     "triggerAmount": "100",
     "userVarRef": "308",
-    "name": "2_TouchPool_MagicTouch"
+    "name": "Magic Touch!"
   },
   "226": {
     "id": "226",
@@ -2697,7 +2697,7 @@
     "type": "34",
     "triggerAmount": "250",
     "userVarRef": "308",
-    "name": "3_TouchPool_GoldenTouch"
+    "name": "Golden Touch!"
   },
   "227": {
     "id": "227",
@@ -2709,7 +2709,7 @@
     "type": "5",
     "triggerAmount": "25",
     "userVarRef": "313",
-    "name": "1_DiscToss_LuckyDog"
+    "name": "Lucky Dog!"
   },
   "228": {
     "id": "228",
@@ -2721,7 +2721,7 @@
     "type": "5",
     "triggerAmount": "50",
     "userVarRef": "313",
-    "name": "2_DiscToss_HotDog"
+    "name": "Hot Dog!"
   },
   "229": {
     "id": "229",
@@ -2733,7 +2733,7 @@
     "type": "5",
     "triggerAmount": "100",
     "userVarRef": "313",
-    "name": "3_DiscToss_TopDog"
+    "name": "Top Dog!"
   },
   "230": {
     "id": "230",
@@ -2745,7 +2745,7 @@
     "type": "5",
     "triggerAmount": "5000",
     "userVarRef": "314",
-    "name": "4_DiscToss_CatchMeIfYouCan"
+    "name": "Catch Me If You Can!"
   },
   "231": {
     "id": "231",
@@ -2757,7 +2757,7 @@
     "type": "5",
     "triggerAmount": "1",
     "userVarRef": "315",
-    "name": "5_DiscToss_PiratePuppy"
+    "name": "Pirate Puppy!"
   },
   "232": {
     "id": "232",
@@ -2769,7 +2769,7 @@
     "type": "7",
     "triggerAmount": "50",
     "userVarRef": "316",
-    "name": "1_DuckyDash_DuckAndCover"
+    "name": "Duck And Cover!"
   },
   "233": {
     "id": "233",
@@ -2781,7 +2781,7 @@
     "type": "7",
     "triggerAmount": "100",
     "userVarRef": "316",
-    "name": "2_DuckyDash_SittingDuck"
+    "name": "Sitting Duck!"
   },
   "234": {
     "id": "234",
@@ -2793,7 +2793,7 @@
     "type": "7",
     "triggerAmount": "150",
     "userVarRef": "316",
-    "name": "3_DuckyDash_DucksInARow"
+    "name": "Ducks In A Row!"
   },
   "235": {
     "id": "235",
@@ -2805,7 +2805,7 @@
     "type": "7",
     "triggerAmount": "5000",
     "userVarRef": "317",
-    "name": "4_DuckyDash_QuackQuack"
+    "name": "Quack Quack!"
   },
   "236": {
     "id": "236",
@@ -2817,7 +2817,7 @@
     "type": "7",
     "triggerAmount": "1",
     "userVarRef": "318",
-    "name": "5_DuckyDash_DapperDucky"
+    "name": "Dapper Ducky!"
   },
   "237": {
     "id": "237",
@@ -2829,7 +2829,7 @@
     "type": "30",
     "triggerAmount": "25",
     "userVarRef": "321",
-    "name": "1_Sssssnake_Breakfast"
+    "name": "Breakfast!"
   },
   "238": {
     "id": "238",
@@ -2841,7 +2841,7 @@
     "type": "30",
     "triggerAmount": "50",
     "userVarRef": "321",
-    "name": "2_Sssssnake_Lunch"
+    "name": "Lunch!"
   },
   "239": {
     "id": "239",
@@ -2853,7 +2853,7 @@
     "type": "30",
     "triggerAmount": "100",
     "userVarRef": "321",
-    "name": "3_Sssssnake_Dinner"
+    "name": "Dinner!"
   },
   "240": {
     "id": "240",
@@ -2865,7 +2865,7 @@
     "type": "30",
     "triggerAmount": "1000",
     "userVarRef": "322",
-    "name": "4_Sssssnake_Dessert"
+    "name": "Dessert!"
   },
   "241": {
     "id": "241",
@@ -2877,7 +2877,7 @@
     "type": "30",
     "triggerAmount": "5",
     "userVarRef": "323",
-    "name": "5_Sssssnake_YumYum"
+    "name": "Yum Yum!"
   },
   "242": {
     "id": "242",
@@ -2889,7 +2889,7 @@
     "type": "2",
     "triggerAmount": "5",
     "userVarRef": "324",
-    "name": "1_BestDressedO_Sharp"
+    "name": "Sharp!"
   },
   "243": {
     "id": "243",
@@ -2901,7 +2901,7 @@
     "type": "2",
     "triggerAmount": "10",
     "userVarRef": "324",
-    "name": "2_BestDressedO_Classy"
+    "name": "Classy!"
   },
   "244": {
     "id": "244",
@@ -2913,7 +2913,7 @@
     "type": "2",
     "triggerAmount": "25",
     "userVarRef": "324",
-    "name": "3_BestDressedO_Posh"
+    "name": "Posh!"
   },
   "245": {
     "id": "245",
@@ -2925,7 +2925,7 @@
     "type": "2",
     "triggerAmount": "50",
     "userVarRef": "324",
-    "name": "4_BestDressedO_Elegant"
+    "name": "Elegant!"
   },
   "246": {
     "id": "246",
@@ -2937,7 +2937,7 @@
     "type": "2",
     "triggerAmount": "20",
     "userVarRef": "325",
-    "name": "5_BestDressedO_Dashing"
+    "name": "Dashing!"
   },
   "247": {
     "id": "247",
@@ -2949,7 +2949,7 @@
     "type": "2",
     "triggerAmount": "1",
     "userVarRef": "326",
-    "name": "6_BestDressedO_InVogue"
+    "name": "In Vogue!"
   },
   "248": {
     "id": "248",
@@ -2961,7 +2961,7 @@
     "type": "16",
     "triggerAmount": "10",
     "userVarRef": "327",
-    "name": "1_HorseRace_Trot"
+    "name": "Trot!"
   },
   "249": {
     "id": "249",
@@ -2973,7 +2973,7 @@
     "type": "16",
     "triggerAmount": "25",
     "userVarRef": "327",
-    "name": "2_HorseRace_Canter"
+    "name": "Canter!"
   },
   "250": {
     "id": "250",
@@ -2985,7 +2985,7 @@
     "type": "16",
     "triggerAmount": "50",
     "userVarRef": "327",
-    "name": "3_HorseRace_Gallop"
+    "name": "Gallop!"
   },
   "251": {
     "id": "251",
@@ -2997,7 +2997,7 @@
     "type": "16",
     "triggerAmount": "10",
     "userVarRef": "328",
-    "name": "4_HorseRace_Foal"
+    "name": "Foal!"
   },
   "252": {
     "id": "252",
@@ -3009,7 +3009,7 @@
     "type": "16",
     "triggerAmount": "25",
     "userVarRef": "328",
-    "name": "5_HorseRace_Mare"
+    "name": "Mare!"
   },
   "253": {
     "id": "253",
@@ -3021,7 +3021,7 @@
     "type": "16",
     "triggerAmount": "50",
     "userVarRef": "328",
-    "name": "6_HorseRace_Stallion"
+    "name": "Stallion!"
   },
   "254": {
     "id": "254",
@@ -3033,7 +3033,7 @@
     "type": "16",
     "triggerAmount": "1",
     "userVarRef": "329",
-    "name": "8_HorseRace_JamaaCup"
+    "name": "Jamaa Cup!"
   },
   "255": {
     "id": "255",
@@ -3045,7 +3045,7 @@
     "type": "16",
     "triggerAmount": "15",
     "userVarRef": "330",
-    "name": "7_HorseRace_Thoroughbred"
+    "name": "Thoroughbred!"
   },
   "256": {
     "id": "256",
@@ -3057,7 +3057,7 @@
     "type": "16",
     "triggerAmount": "1",
     "userVarRef": "331",
-    "name": "9_HorseRace_PerfectRace"
+    "name": "Perfect Race!"
   },
   "257": {
     "id": "257",
@@ -3069,7 +3069,7 @@
     "type": "9",
     "triggerAmount": "10",
     "userVarRef": "344",
-    "name": "1_FallingPhantoms_Crust"
+    "name": "Crust!"
   },
   "258": {
     "id": "258",
@@ -3081,7 +3081,7 @@
     "type": "9",
     "triggerAmount": "25",
     "userVarRef": "344",
-    "name": "2_FallingPhantoms_Mantle"
+    "name": "Mantle!"
   },
   "259": {
     "id": "259",
@@ -3093,7 +3093,7 @@
     "type": "9",
     "triggerAmount": "50",
     "userVarRef": "344",
-    "name": "3_FallingPhantoms_Core"
+    "name": "Core!"
   },
   "260": {
     "id": "260",
@@ -3105,7 +3105,7 @@
     "type": "9",
     "triggerAmount": "10",
     "userVarRef": "345",
-    "name": "4_FallingPhantoms_Fissure"
+    "name": "Fissure!"
   },
   "261": {
     "id": "261",
@@ -3117,7 +3117,7 @@
     "type": "9",
     "triggerAmount": "25",
     "userVarRef": "345",
-    "name": "5_FallingPhantoms_Dome"
+    "name": "Dome!"
   },
   "262": {
     "id": "262",
@@ -3129,7 +3129,7 @@
     "type": "9",
     "triggerAmount": "50",
     "userVarRef": "345",
-    "name": "6_FallingPhantoms_Volcano"
+    "name": "Volcano!"
   },
   "263": {
     "id": "263",
@@ -3141,7 +3141,7 @@
     "type": "9",
     "triggerAmount": "5",
     "userVarRef": "346",
-    "name": "7_FallingPhantoms_Eruption"
+    "name": "Eruption!"
   },
   "264": {
     "id": "264",
@@ -3153,7 +3153,7 @@
     "type": "9",
     "triggerAmount": "1",
     "userVarRef": "347",
-    "name": "8_FallingPhantoms_RingOfFire"
+    "name": "Ring Of Fire!"
   },
   "265": {
     "id": "265",
@@ -3165,7 +3165,7 @@
     "type": "14",
     "triggerAmount": "10",
     "userVarRef": "349",
-    "name": "1_HedgeHog_RoadHog"
+    "name": "Road Hog!"
   },
   "266": {
     "id": "266",
@@ -3177,7 +3177,7 @@
     "type": "14",
     "triggerAmount": "25",
     "userVarRef": "349",
-    "name": "2_HedgeHog_HogWild"
+    "name": "Hog Wild!"
   },
   "267": {
     "id": "267",
@@ -3189,7 +3189,7 @@
     "type": "14",
     "triggerAmount": "50",
     "userVarRef": "349",
-    "name": "3_HedgeHog_WholeHog"
+    "name": "Whole Hog!"
   },
   "268": {
     "id": "268",
@@ -3201,7 +3201,7 @@
     "type": "14",
     "triggerAmount": "10",
     "userVarRef": "350",
-    "name": "4_HedgeHog_HedgeYourBets"
+    "name": "Hedge Your Bets!"
   },
   "269": {
     "id": "269",
@@ -3213,7 +3213,7 @@
     "type": "14",
     "triggerAmount": "1000",
     "userVarRef": "351",
-    "name": "5_HedgeHog_PhantomCatcher"
+    "name": "Phantom Catcher!"
   },
   "270": {
     "id": "270",
@@ -3225,7 +3225,7 @@
     "type": "14",
     "triggerAmount": "50",
     "userVarRef": "352",
-    "name": "6_HedgeHog_FindersKeepers"
+    "name": "Finders Keepers!"
   },
   "271": {
     "id": "271",
@@ -3237,7 +3237,7 @@
     "type": "14",
     "triggerAmount": "10",
     "userVarRef": "353",
-    "name": "7_HedgeHog_SuperStreak"
+    "name": "Super Streak!"
   },
   "272": {
     "id": "272",
@@ -3249,7 +3249,7 @@
     "type": "28",
     "triggerAmount": "10",
     "userVarRef": "357",
-    "name": "1_DolphinRace_Dorsal_Fin"
+    "name": "Dorsal Fin!"
   },
   "273": {
     "id": "273",
@@ -3261,7 +3261,7 @@
     "type": "28",
     "triggerAmount": "25",
     "userVarRef": "357",
-    "name": "2_DolphinRace_Blowhole"
+    "name": "Blowhole!"
   },
   "274": {
     "id": "274",
@@ -3273,7 +3273,7 @@
     "type": "28",
     "triggerAmount": "50",
     "userVarRef": "357",
-    "name": "3_DolphinRace_Fluke"
+    "name": "Fluke!"
   },
   "275": {
     "id": "275",
@@ -3285,7 +3285,7 @@
     "type": "28",
     "triggerAmount": "10",
     "userVarRef": "358",
-    "name": "4_DolphinRace_Quick"
+    "name": "Quick!"
   },
   "276": {
     "id": "276",
@@ -3297,7 +3297,7 @@
     "type": "28",
     "triggerAmount": "25",
     "userVarRef": "358",
-    "name": "5_DolphinRace_Swift"
+    "name": "Swift!"
   },
   "277": {
     "id": "277",
@@ -3309,7 +3309,7 @@
     "type": "28",
     "triggerAmount": "50",
     "userVarRef": "358",
-    "name": "6_DolphinRace_Speedy"
+    "name": "Speedy!"
   },
   "278": {
     "id": "278",
@@ -3321,7 +3321,7 @@
     "type": "28",
     "triggerAmount": "1",
     "userVarRef": "359",
-    "name": "8_DolphinRace_HighFive"
+    "name": "High Five!"
   },
   "279": {
     "id": "279",
@@ -3333,7 +3333,7 @@
     "type": "28",
     "triggerAmount": "15",
     "userVarRef": "360",
-    "name": "7_DolphinRace_Regatta"
+    "name": "Regatta!"
   },
   "280": {
     "id": "280",
@@ -3345,7 +3345,7 @@
     "type": "28",
     "triggerAmount": "1",
     "userVarRef": "361",
-    "name": "9_DolphinRace_Bottlenose"
+    "name": "Bottlenose!"
   },
   "281": {
     "id": "281",
@@ -3357,7 +3357,7 @@
     "type": "32",
     "triggerAmount": "10",
     "userVarRef": "378",
-    "name": "1_SwoopyEagle_FlyingHigh"
+    "name": "Flying High!"
   },
   "282": {
     "id": "282",
@@ -3369,7 +3369,7 @@
     "type": "32",
     "triggerAmount": "20",
     "userVarRef": "378",
-    "name": "2_SwoopyEagle_FlyingColors"
+    "name": "Flying Colors!"
   },
   "283": {
     "id": "283",
@@ -3381,7 +3381,7 @@
     "type": "32",
     "triggerAmount": "35",
     "userVarRef": "378",
-    "name": "3_SwoopyEagle_FlightofFancy"
+    "name": "Flight Of Fancy!"
   },
   "284": {
     "id": "284",
@@ -3393,7 +3393,7 @@
     "type": "32",
     "triggerAmount": "50",
     "userVarRef": "378",
-    "name": "4_SwoopyEagle_TopFlight"
+    "name": "Topflight!"
   },
   "285": {
     "id": "285",
@@ -3405,7 +3405,7 @@
     "type": "32",
     "triggerAmount": "15",
     "userVarRef": "377",
-    "name": "5_SwoopyEagle_FortheBirds"
+    "name": "For The Birds!"
   },
   "286": {
     "id": "286",
@@ -3417,7 +3417,7 @@
     "type": "32",
     "triggerAmount": "40",
     "userVarRef": "377",
-    "name": "6_SwoopyEagle_BirdsofaFeather"
+    "name": "Birds Of A Feather!"
   },
   "287": {
     "id": "287",
@@ -3429,7 +3429,7 @@
     "type": "29",
     "triggerAmount": "10",
     "userVarRef": "386",
-    "name": "1_SpotOn_Spotter"
+    "name": "Spotter!"
   },
   "288": {
     "id": "288",
@@ -3441,7 +3441,7 @@
     "type": "29",
     "triggerAmount": "25",
     "userVarRef": "386",
-    "name": "2_SpotOn_Spotting"
+    "name": "Spotting!"
   },
   "289": {
     "id": "289",
@@ -3453,7 +3453,7 @@
     "type": "29",
     "triggerAmount": "50",
     "userVarRef": "386",
-    "name": "3_SpotOn_Spotted"
+    "name": "Spotted!"
   },
   "290": {
     "id": "290",
@@ -3465,7 +3465,7 @@
     "type": "29",
     "triggerAmount": "25",
     "userVarRef": "387",
-    "name": "4_SpotOn_SuperSpot"
+    "name": "Super Spot!"
   },
   "291": {
     "id": "291",
@@ -3477,7 +3477,7 @@
     "type": "29",
     "triggerAmount": "50",
     "userVarRef": "387",
-    "name": "5_SpotOn_HyperSpot"
+    "name": "Hyper Spot!"
   },
   "292": {
     "id": "292",
@@ -3489,7 +3489,7 @@
     "type": "29",
     "triggerAmount": "100",
     "userVarRef": "387",
-    "name": "6_SpotOn_AwesomeSpot"
+    "name": "Awesome Spot!"
   },
   "293": {
     "id": "293",
@@ -3501,7 +3501,7 @@
     "type": "29",
     "triggerAmount": "10",
     "userVarRef": "388",
-    "name": "7_SpotOn_UltraSpot"
+    "name": "Ultra Spot!"
   },
   "294": {
     "id": "294",
@@ -3513,7 +3513,7 @@
     "type": "3",
     "triggerAmount": "5",
     "userVarRef": "403",
-    "name": "1_BestGuess_Guess"
+    "name": "Guess!"
   },
   "295": {
     "id": "295",
@@ -3525,7 +3525,7 @@
     "type": "3",
     "triggerAmount": "10",
     "userVarRef": "403",
-    "name": "2_BestGuess_GoodGuess"
+    "name": "Good Guess!"
   },
   "296": {
     "id": "296",
@@ -3537,7 +3537,7 @@
     "type": "3",
     "triggerAmount": "25",
     "userVarRef": "403",
-    "name": "3_BestGuess_BetterGuess"
+    "name": "Better Guess!"
   },
   "297": {
     "id": "297",
@@ -3549,7 +3549,7 @@
     "type": "3",
     "triggerAmount": "50",
     "userVarRef": "403",
-    "name": "4_BestGuess_BestGuess"
+    "name": "Best Guess!"
   },
   "298": {
     "id": "298",
@@ -3561,7 +3561,7 @@
     "type": "3",
     "triggerAmount": "10",
     "userVarRef": "405",
-    "name": "5_BestGuess_BestGuesser"
+    "name": "Best Guesser!"
   },
   "299": {
     "id": "299",
@@ -3573,7 +3573,7 @@
     "type": "3",
     "triggerAmount": "20",
     "userVarRef": "405",
-    "name": "6_BestGuess_GuessMaster"
+    "name": "Guess Master!"
   },
   "300": {
     "id": "300",
@@ -3585,7 +3585,7 @@
     "type": "37",
     "triggerAmount": "10",
     "userVarRef": "445",
-    "name": "1_FastFoodies_Hostess"
+    "name": "Hostess!"
   },
   "301": {
     "id": "301",
@@ -3597,7 +3597,7 @@
     "type": "37",
     "triggerAmount": "50",
     "userVarRef": "445",
-    "name": "2_FastFoodies_Waitress"
+    "name": "Waitress!"
   },
   "302": {
     "id": "302",
@@ -3609,7 +3609,7 @@
     "type": "37",
     "triggerAmount": "100",
     "userVarRef": "445",
-    "name": "3_FastFoodies_MaitreD"
+    "name": "Maître D'!"
   },
   "303": {
     "id": "303",
@@ -3621,7 +3621,7 @@
     "type": "37",
     "triggerAmount": "10",
     "userVarRef": "444",
-    "name": "4_FastFoodies_Saucier"
+    "name": "Saucier!"
   },
   "304": {
     "id": "304",
@@ -3633,7 +3633,7 @@
     "type": "37",
     "triggerAmount": "25",
     "userVarRef": "444",
-    "name": "5_FastFoodies_SousChef"
+    "name": "Sous-Chef!"
   },
   "305": {
     "id": "305",
@@ -3645,7 +3645,7 @@
     "type": "37",
     "triggerAmount": "50",
     "userVarRef": "444",
-    "name": "6_FastFoodies_ChefDeCuisine"
+    "name": "Chef De Cuisine!"
   },
   "306": {
     "id": "306",
@@ -3657,7 +3657,7 @@
     "type": "37",
     "triggerAmount": "15",
     "userVarRef": "446",
-    "name": "7_FastFoodies_SuperService"
+    "name": "Super Service!"
   },
   "307": {
     "id": "307",
@@ -3669,7 +3669,7 @@
     "type": "37",
     "triggerAmount": "40",
     "userVarRef": "446",
-    "name": "8_FastFoodies_PerfectService"
+    "name": "Perfect Service!"
   },
   "308": {
     "id": "308",
@@ -3680,8 +3680,7 @@
     "descStrRef": "0",
     "type": "0",
     "triggerAmount": "0",
-    "userVarRef": "0",
-    "name": "REUSE ME"
+    "userVarRef": "0"
   },
   "309": {
     "id": "309",
@@ -3692,8 +3691,7 @@
     "descStrRef": "0",
     "type": "0",
     "triggerAmount": "0",
-    "userVarRef": "0",
-    "name": "REUSE ME "
+    "userVarRef": "0"
   },
   "310": {
     "id": "310",
@@ -3704,8 +3702,7 @@
     "descStrRef": "0",
     "type": "0",
     "triggerAmount": "0",
-    "userVarRef": "0",
-    "name": "REUSE ME "
+    "userVarRef": "0"
   },
   "311": {
     "id": "311",
@@ -3716,7 +3713,6 @@
     "descStrRef": "0",
     "type": "0",
     "triggerAmount": "0",
-    "userVarRef": "0",
-    "name": "REUSE ME "
+    "userVarRef": "0"
   }
 }

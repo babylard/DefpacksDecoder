@@ -9,7 +9,8 @@
     "iconRefId": "3907",
     "avatarIconRefId": "3912",
     "membersOnly": "0",
-    "overrideColorLayer2": "0"
+    "overrideColorLayer2": "0",
+    "name": "Spring Bunny"
   },
   "2": {
     "id": "2",
@@ -21,7 +22,8 @@
     "iconRefId": "5875",
     "avatarIconRefId": "5876",
     "membersOnly": "1",
-    "overrideColorLayer2": "0"
+    "overrideColorLayer2": "0",
+    "name": "Snowflake Arctic Wolf"
   },
   "3": {
     "id": "3",
@@ -33,7 +35,8 @@
     "iconRefId": "7056",
     "avatarIconRefId": "7057",
     "membersOnly": "1",
-    "overrideColorLayer2": "0"
+    "overrideColorLayer2": "0",
+    "name": "Polar Arctic Fox"
   },
   "4": {
     "id": "4",
@@ -45,7 +48,8 @@
     "iconRefId": "7352",
     "avatarIconRefId": "7351",
     "membersOnly": "1",
-    "overrideColorLayer2": "0"
+    "overrideColorLayer2": "0",
+    "name": "Enchanted Eagle"
   },
   "5": {
     "id": "5",
@@ -57,7 +61,8 @@
     "iconRefId": "7428",
     "avatarIconRefId": "7407",
     "membersOnly": "1",
-    "overrideColorLayer2": "0"
+    "overrideColorLayer2": "0",
+    "name": "Autumn Coyote"
   },
   "6": {
     "id": "6",
@@ -69,7 +74,8 @@
     "iconRefId": "7540",
     "avatarIconRefId": "7541",
     "membersOnly": "1",
-    "overrideColorLayer2": "0"
+    "overrideColorLayer2": "0",
+    "name": "Spooky Snow Leopard"
   },
   "7": {
     "id": "7",
@@ -81,7 +87,8 @@
     "iconRefId": "7603",
     "avatarIconRefId": "7602",
     "membersOnly": "1",
-    "overrideColorLayer2": "0"
+    "overrideColorLayer2": "0",
+    "name": "Jamaaliday Deer"
   },
   "8": {
     "id": "8",
@@ -93,7 +100,8 @@
     "iconRefId": "7639",
     "avatarIconRefId": "7638",
     "membersOnly": "1",
-    "overrideColorLayer2": "0"
+    "overrideColorLayer2": "0",
+    "name": "Legendary Eagle"
   },
   "9": {
     "id": "9",
@@ -105,7 +113,8 @@
     "iconRefId": "7682",
     "avatarIconRefId": "7698",
     "membersOnly": "1",
-    "overrideColorLayer2": "0"
+    "overrideColorLayer2": "0",
+    "name": "Fearsome Falcon"
   },
   "10": {
     "id": "10",
@@ -117,7 +126,8 @@
     "iconRefId": "7841",
     "avatarIconRefId": "7831",
     "membersOnly": "1",
-    "overrideColorLayer2": "0"
+    "overrideColorLayer2": "0",
+    "name": "Royal Red Panda"
   },
   "11": {
     "id": "11",
@@ -129,7 +139,8 @@
     "iconRefId": "7974",
     "avatarIconRefId": "7993",
     "membersOnly": "1",
-    "overrideColorLayer2": "0"
+    "overrideColorLayer2": "0",
+    "name": "Frolicking Fox"
   },
   "12": {
     "id": "12",
@@ -141,6 +152,7 @@
     "iconRefId": "8283",
     "avatarIconRefId": "8090",
     "membersOnly": "1",
-    "overrideColorLayer2": "4042716146"
+    "overrideColorLayer2": "4042716146",
+    "name": "Rainbow Raccoon"
   }
 }

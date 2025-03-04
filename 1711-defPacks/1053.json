@@ -29,7 +29,8 @@
     "userVarBit": "1",
     "titleStrRef": "3383",
     "subtitleRefId": "17",
-    "streamTitleStrRef": "3349"
+    "streamTitleStrRef": "3349",
+    "name": "|Where should I start my search for a python?"
   },
   "3": {
     "id": "3",
@@ -45,7 +46,8 @@
     "userVarBit": "0",
     "titleStrRef": "3384",
     "subtitleRefId": "14",
-    "streamTitleStrRef": "3350"
+    "streamTitleStrRef": "3350",
+    "name": "The Cold Mountains|"
   },
   "4": {
     "id": "4",
@@ -61,7 +63,8 @@
     "userVarBit": "0",
     "titleStrRef": "3385",
     "subtitleRefId": "15",
-    "streamTitleStrRef": "3351"
+    "streamTitleStrRef": "3351",
+    "name": "The Hot Desert|"
   },
   "5": {
     "id": "5",
@@ -77,7 +80,8 @@
     "userVarBit": "0",
     "titleStrRef": "3386",
     "subtitleRefId": "16",
-    "streamTitleStrRef": "3352"
+    "streamTitleStrRef": "3352",
+    "name": "The Swamp Forest|"
   },
   "6": {
     "id": "6",
@@ -93,7 +97,8 @@
     "userVarBit": "2",
     "titleStrRef": "3388",
     "subtitleRefId": "18",
-    "streamTitleStrRef": "3353"
+    "streamTitleStrRef": "3353",
+    "name": "|How should I investigate these holes?"
   },
   "7": {
     "id": "7",
@@ -109,7 +114,8 @@
     "userVarBit": "0",
     "titleStrRef": "3389",
     "subtitleRefId": "19",
-    "streamTitleStrRef": "3354"
+    "streamTitleStrRef": "3354",
+    "name": "Reach My Hand In|"
   },
   "8": {
     "id": "8",
@@ -125,7 +131,8 @@
     "userVarBit": "0",
     "titleStrRef": "3390",
     "subtitleRefId": "20",
-    "streamTitleStrRef": "3355"
+    "streamTitleStrRef": "3355",
+    "name": "Take A Close Look|"
   },
   "9": {
     "id": "9",
@@ -141,7 +148,8 @@
     "userVarBit": "0",
     "titleStrRef": "3391",
     "subtitleRefId": "21",
-    "streamTitleStrRef": "3356"
+    "streamTitleStrRef": "3356",
+    "name": "Explore With A Long Stick|"
   },
   "10": {
     "id": "10",
@@ -157,7 +165,8 @@
     "userVarBit": "3",
     "titleStrRef": "3393",
     "subtitleRefId": "22",
-    "streamTitleStrRef": "3357"
+    "streamTitleStrRef": "3357",
+    "name": "|What should I use to find North?"
   },
   "11": {
     "id": "11",
@@ -173,7 +182,8 @@
     "userVarBit": "0",
     "titleStrRef": "3394",
     "subtitleRefId": "23",
-    "streamTitleStrRef": "3358"
+    "streamTitleStrRef": "3358",
+    "name": "Two Sticks And The Sun|"
   },
   "12": {
     "id": "12",
@@ -189,7 +199,8 @@
     "userVarBit": "0",
     "titleStrRef": "3395",
     "subtitleRefId": "24",
-    "streamTitleStrRef": "3359"
+    "streamTitleStrRef": "3359",
+    "name": "A Compass|"
   },
   "13": {
     "id": "13",
@@ -205,7 +216,8 @@
     "userVarBit": "0",
     "titleStrRef": "3396",
     "subtitleRefId": "25",
-    "streamTitleStrRef": "3360"
+    "streamTitleStrRef": "3360",
+    "name": "Moss On Trees|"
   },
   "14": {
     "id": "14",
@@ -221,7 +233,8 @@
     "userVarBit": "4",
     "titleStrRef": "3397",
     "subtitleRefId": "26",
-    "streamTitleStrRef": "3361"
+    "streamTitleStrRef": "3361",
+    "name": "|Where should I look for a bigger python?"
   },
   "15": {
     "id": "15",
@@ -237,7 +250,8 @@
     "userVarBit": "0",
     "titleStrRef": "3398",
     "subtitleRefId": "27",
-    "streamTitleStrRef": "3362"
+    "streamTitleStrRef": "3362",
+    "name": "In The Swamp Forest|"
   },
   "16": {
     "id": "16",
@@ -253,7 +267,8 @@
     "userVarBit": "0",
     "titleStrRef": "3399",
     "subtitleRefId": "28",
-    "streamTitleStrRef": "3363"
+    "streamTitleStrRef": "3363",
+    "name": "Higher In The Tree|"
   },
   "17": {
     "id": "17",
@@ -269,7 +284,8 @@
     "userVarBit": "5",
     "titleStrRef": "3400",
     "subtitleRefId": "29",
-    "streamTitleStrRef": "3364"
+    "streamTitleStrRef": "3364",
+    "name": "|How should I get out of this quicksand?"
   },
   "18": {
     "id": "18",
@@ -285,7 +301,8 @@
     "userVarBit": "0",
     "titleStrRef": "3401",
     "subtitleRefId": "30",
-    "streamTitleStrRef": "3365"
+    "streamTitleStrRef": "3365",
+    "name": "Make A Lasso|"
   },
   "19": {
     "id": "19",
@@ -301,7 +318,8 @@
     "userVarBit": "0",
     "titleStrRef": "3402",
     "subtitleRefId": "31",
-    "streamTitleStrRef": "3366"
+    "streamTitleStrRef": "3366",
+    "name": "Swim Vigorously|"
   },
   "20": {
     "id": "20",
@@ -317,7 +335,8 @@
     "userVarBit": "0",
     "titleStrRef": "3403",
     "subtitleRefId": "32",
-    "streamTitleStrRef": "3367"
+    "streamTitleStrRef": "3367",
+    "name": "Relax And Try To Float|"
   },
   "21": {
     "id": "21",
@@ -333,7 +352,8 @@
     "userVarBit": "6",
     "titleStrRef": "3404",
     "subtitleRefId": "33",
-    "streamTitleStrRef": "3368"
+    "streamTitleStrRef": "3368",
+    "name": "|How should I get across this river?"
   },
   "22": {
     "id": "22",
@@ -349,7 +369,8 @@
     "userVarBit": "0",
     "titleStrRef": "3405",
     "subtitleRefId": "34",
-    "streamTitleStrRef": "3369"
+    "streamTitleStrRef": "3369",
+    "name": "Swing With A Rope|"
   },
   "23": {
     "id": "23",
@@ -365,7 +386,8 @@
     "userVarBit": "0",
     "titleStrRef": "3406",
     "subtitleRefId": "35",
-    "streamTitleStrRef": "3370"
+    "streamTitleStrRef": "3370",
+    "name": "Wade With A Stick|"
   },
   "24": {
     "id": "24",
@@ -381,7 +403,8 @@
     "userVarBit": "7",
     "titleStrRef": "3407",
     "subtitleRefId": "36",
-    "streamTitleStrRef": "3371"
+    "streamTitleStrRef": "3371",
+    "name": "|How should I get these leeches off me?"
   },
   "25": {
     "id": "25",
@@ -397,7 +420,8 @@
     "userVarBit": "0",
     "titleStrRef": "3408",
     "subtitleRefId": "37",
-    "streamTitleStrRef": "3372"
+    "streamTitleStrRef": "3372",
+    "name": "Bite Them Off|"
   },
   "26": {
     "id": "26",
@@ -413,7 +437,8 @@
     "userVarBit": "0",
     "titleStrRef": "3409",
     "subtitleRefId": "38",
-    "streamTitleStrRef": "3373"
+    "streamTitleStrRef": "3373",
+    "name": "Scrape Them Off|"
   },
   "27": {
     "id": "27",
@@ -429,7 +454,8 @@
     "userVarBit": "0",
     "titleStrRef": "3410",
     "subtitleRefId": "39",
-    "streamTitleStrRef": "3374"
+    "streamTitleStrRef": "3374",
+    "name": "Wait And Let Them Get Full"
   },
   "28": {
     "id": "28",
@@ -461,7 +487,8 @@
     "userVarBit": "9",
     "titleStrRef": "3412",
     "subtitleRefId": "41",
-    "streamTitleStrRef": "3376"
+    "streamTitleStrRef": "3376",
+    "name": "|What should I use to help me catch the snake?"
   },
   "30": {
     "id": "30",
@@ -477,7 +504,8 @@
     "userVarBit": "0",
     "titleStrRef": "3413",
     "subtitleRefId": "42",
-    "streamTitleStrRef": "3377"
+    "streamTitleStrRef": "3377",
+    "name": "A Snake Hook|"
   },
   "31": {
     "id": "31",
@@ -493,7 +521,8 @@
     "userVarBit": "0",
     "titleStrRef": "3414",
     "subtitleRefId": "43",
-    "streamTitleStrRef": "3378"
+    "streamTitleStrRef": "3378",
+    "name": "My Mom|"
   },
   "32": {
     "id": "32",
@@ -509,7 +538,8 @@
     "userVarBit": "0",
     "titleStrRef": "3415",
     "subtitleRefId": "44",
-    "streamTitleStrRef": "3379"
+    "streamTitleStrRef": "3379",
+    "name": "Lots Of Muscles"
   },
   "33": {
     "id": "33",

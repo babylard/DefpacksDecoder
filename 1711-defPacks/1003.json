@@ -21,7 +21,8 @@
     "iconMediaRefId": "1731",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Tiger"
   },
   "2": {
     "id": "2",
@@ -45,7 +46,8 @@
     "iconMediaRefId": "2601",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Eagle"
   },
   "3": {
     "id": "3",
@@ -69,7 +71,8 @@
     "iconMediaRefId": "2377",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Deer"
   },
   "4": {
     "id": "4",
@@ -93,7 +96,8 @@
     "iconMediaRefId": "1733",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Wolf"
   },
   "5": {
     "id": "5",
@@ -117,7 +121,8 @@
     "iconMediaRefId": "1721",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Koala"
   },
   "6": {
     "id": "6",
@@ -141,7 +146,8 @@
     "iconMediaRefId": "1725",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Panda"
   },
   "7": {
     "id": "7",
@@ -165,7 +171,8 @@
     "iconMediaRefId": "1723",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Monkey"
   },
   "8": {
     "id": "8",
@@ -189,7 +196,8 @@
     "iconMediaRefId": "1714",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Bunny"
   },
   "9": {
     "id": "9",
@@ -213,7 +221,8 @@
     "iconMediaRefId": "2724",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Hyena"
   },
   "10": {
     "id": "10",
@@ -237,7 +246,8 @@
     "iconMediaRefId": "2846",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Otter"
   },
   "11": {
     "id": "11",
@@ -261,7 +271,8 @@
     "iconMediaRefId": "3589",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Polar Bear"
   },
   "12": {
     "id": "12",
@@ -285,7 +296,8 @@
     "iconMediaRefId": "3755",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Owl"
   },
   "13": {
     "id": "13",
@@ -309,7 +321,8 @@
     "iconMediaRefId": "1728",
     "status": "0",
     "availabilityStartTime": "1722492000",
-    "availabilityEndTime": "1728021600"
+    "availabilityEndTime": "1728021600",
+    "name": "Rhino"
   },
   "14": {
     "id": "14",
@@ -333,7 +346,8 @@
     "iconMediaRefId": "4082",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Llama"
   },
   "15": {
     "id": "15",
@@ -357,7 +371,8 @@
     "iconMediaRefId": "1715",
     "status": "0",
     "availabilityStartTime": "1714024800",
-    "availabilityEndTime": "1722578400"
+    "availabilityEndTime": "1722578400",
+    "name": "Crocodile"
   },
   "16": {
     "id": "16",
@@ -381,7 +396,8 @@
     "iconMediaRefId": "1717",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Elephant"
   },
   "17": {
     "id": "17",
@@ -405,7 +421,8 @@
     "iconMediaRefId": "1722",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Lion"
   },
   "18": {
     "id": "18",
@@ -429,7 +446,8 @@
     "iconMediaRefId": "1729",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Seal"
   },
   "19": {
     "id": "19",
@@ -453,7 +471,8 @@
     "iconMediaRefId": "1716",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Dolphin"
   },
   "20": {
     "id": "20",
@@ -477,7 +496,8 @@
     "iconMediaRefId": "1730",
     "status": "0",
     "availabilityStartTime": "1719813600",
-    "availabilityEndTime": "1728021600"
+    "availabilityEndTime": "1728021600",
+    "name": "Shark"
   },
   "21": {
     "id": "21",
@@ -501,7 +521,8 @@
     "iconMediaRefId": "1724",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Octopus"
   },
   "22": {
     "id": "22",
@@ -525,7 +546,8 @@
     "iconMediaRefId": "1895",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Sea Turtle"
   },
   "23": {
     "id": "23",
@@ -549,7 +571,8 @@
     "iconMediaRefId": "1720",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Horse"
   },
   "24": {
     "id": "24",
@@ -573,7 +596,8 @@
     "iconMediaRefId": "1726",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Penguin"
   },
   "25": {
     "id": "25",
@@ -597,7 +621,8 @@
     "iconMediaRefId": "1718",
     "status": "0",
     "availabilityStartTime": "1714543200",
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Fox"
   },
   "26": {
     "id": "26",
@@ -621,7 +646,8 @@
     "iconMediaRefId": "1719",
     "status": "0",
     "availabilityStartTime": "1719813600",
-    "availabilityEndTime": "1725602400"
+    "availabilityEndTime": "1725602400",
+    "name": "Giraffe"
   },
   "27": {
     "id": "27",
@@ -645,7 +671,8 @@
     "iconMediaRefId": "1894",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Kangaroo"
   },
   "28": {
     "id": "28",
@@ -669,7 +696,8 @@
     "iconMediaRefId": "1893",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Arctic Wolf"
   },
   "29": {
     "id": "29",
@@ -693,7 +721,8 @@
     "iconMediaRefId": "1896",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Snow Leopard"
   },
   "30": {
     "id": "30",
@@ -717,7 +746,8 @@
     "iconMediaRefId": "1988",
     "status": "0",
     "availabilityStartTime": "1733032800",
-    "availabilityEndTime": "1735884000"
+    "availabilityEndTime": "1735884000",
+    "name": "Raccoon"
   },
   "31": {
     "id": "31",
@@ -741,7 +771,8 @@
     "iconMediaRefId": "2193",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Cheetah"
   },
   "32": {
     "id": "32",
@@ -765,7 +796,8 @@
     "iconMediaRefId": "4146",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Lynx"
   },
   "33": {
     "id": "33",
@@ -789,7 +821,8 @@
     "iconMediaRefId": "4406",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Arctic Fox"
   },
   "34": {
     "id": "34",
@@ -813,7 +846,8 @@
     "iconMediaRefId": "4449",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Goat"
   },
   "35": {
     "id": "35",
@@ -837,7 +871,8 @@
     "iconMediaRefId": "4614",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Falcon"
   },
   "36": {
     "id": "36",
@@ -861,7 +896,8 @@
     "iconMediaRefId": "4822",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Pig"
   },
   "37": {
     "id": "37",
@@ -885,7 +921,8 @@
     "iconMediaRefId": "4895",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Sloth"
   },
   "38": {
     "id": "38",
@@ -909,7 +946,8 @@
     "iconMediaRefId": "4991",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Lemur"
   },
   "39": {
     "id": "39",
@@ -933,7 +971,8 @@
     "iconMediaRefId": "5260",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Toucan"
   },
   "40": {
     "id": "40",
@@ -957,7 +996,8 @@
     "iconMediaRefId": "5553",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Sheep"
   },
   "41": {
     "id": "41",
@@ -981,7 +1021,8 @@
     "iconMediaRefId": "5721",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Cougar"
   },
   "42": {
     "id": "42",
@@ -1005,7 +1046,8 @@
     "iconMediaRefId": "5781",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Coyote"
   },
   "43": {
     "id": "43",
@@ -1029,7 +1071,8 @@
     "iconMediaRefId": "6231",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Flamingo"
   },
   "44": {
     "id": "44",
@@ -1053,7 +1096,8 @@
     "iconMediaRefId": "6598",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Red Panda"
   },
   "45": {
     "id": "45",
@@ -1077,7 +1121,8 @@
     "iconMediaRefId": "6935",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Clydesdale Horse"
   },
   "46": {
     "id": "46",
@@ -1101,7 +1146,8 @@
     "iconMediaRefId": "7080",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Sabertooth"
   },
   "47": {
     "id": "47",
@@ -1125,7 +1171,8 @@
     "iconMediaRefId": "7079",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Direwolf"
   },
   "48": {
     "id": "48",
@@ -1149,7 +1196,8 @@
     "iconMediaRefId": "7767",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Skunk"
   },
   "49": {
     "id": "49",
@@ -1173,7 +1221,8 @@
     "iconMediaRefId": "7661",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Great Horned Owl"
   },
   "50": {
     "id": "50",
@@ -1197,7 +1246,8 @@
     "iconMediaRefId": "7854",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Fennec Fox"
   },
   "51": {
     "id": "51",
@@ -1221,7 +1271,8 @@
     "iconMediaRefId": "7973",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Camel"
   },
   "52": {
     "id": "52",
@@ -1245,7 +1296,8 @@
     "iconMediaRefId": "7999",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Arabian Horse"
   },
   "53": {
     "id": "53",
@@ -1269,6 +1321,7 @@
     "iconMediaRefId": "8106",
     "status": "0",
     "availabilityStartTime": null,
-    "availabilityEndTime": null
+    "availabilityEndTime": null,
+    "name": "Moose"
   }
 }
