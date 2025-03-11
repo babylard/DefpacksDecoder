@@ -2,7 +2,7 @@ import { AnimalJamClient } from 'animaljam.js';
 
 (async () => {
   const client = new AnimalJamClient({
-    deployVersion: '1711'
+    deployVersion: '1713'
   });
 
   const numbers = [
